@@ -1,6 +1,6 @@
 # main text of home
 name: Hi, I'm Danilo
-bio: and I’m fascinated by Emergent phenomena. From how complex fungi mycelium emerges into mushrooms, to how culture evolves out of the interaction of social networks.
+bio: I’m fascinated by Emergent phenomena. From Complex mycelium emerging into mushrooms, to Culture evolving from social networks.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://dnllvrvz.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -30,30 +30,35 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: dnllvrvz.disqus.com # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: danilo.vaz.397
+twitter: emergir_co
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+# github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: dnllvrvz@gmail.com
 
-authors:
+#authors:
+    danilo:
+        name: Danilo Oliveira Vaz
+        bio: Fascinated by Emergent phenomena
+        external-image: false
+        picture: assets/images/profile.jpg
     johndoe:
         name: John Doe
         bio: A Man who travels the world eating noodles
@@ -93,7 +98,7 @@ show-tags: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+post-advance-links: [blog, project]
 
 # show author block at the end of a post ?
 show-author: true
