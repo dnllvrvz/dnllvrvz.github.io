@@ -1,6 +1,6 @@
 # main text of home
-name: Danilo
-bio: I’m fascinated by Emergent phenomena. From Complex mycelium emerging into mushrooms, to Culture evolving from social networks.
+name: Hi, I'm Danilo
+bio: I’m fascinated by Emergent phenomena. From Complex mycelium emerging into mushrooms, to Culture evolving from social networks
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -54,11 +54,11 @@ twitter: emergir_co
 email: dnllvrvz@gmail.com
 
 #authors:
-    danilo:
-        name: Danilo Oliveira Vaz
-        bio: Fascinated by Emergent phenomena
-        external-image: false
-        picture: assets/images/profile.jpg
+#    danilo:
+#        name: Danilo Oliveira Vaz
+#        bio: Fascinated by Emergent phenomena
+#        external-image: false
+#        picture: assets/images/profile.jpg
     johndoe:
         name: John Doe
         bio: A Man who travels the world eating noodles
@@ -98,7 +98,7 @@ show-tags: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog, project]
+post-advance-links: [blog]
 
 # show author block at the end of a post ?
 show-author: true
