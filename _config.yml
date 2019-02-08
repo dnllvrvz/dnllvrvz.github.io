@@ -54,6 +54,11 @@ twitter: emergir_co
 email: dnllvrvz@gmail.com
 
 authors:
+    danilo:
+        name: Danilo
+        bio: fascinated by Emergent phenomena
+        external-image: false
+        picture: assets/images/profile.jpg
     johndoe:
         name: John Doe
         bio: A Man who travels the world eating noodles
@@ -70,7 +75,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
@@ -93,7 +98,7 @@ show-tags: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+post-advance-links: [blog, project]
 
 # show author block at the end of a post ?
 show-author: true
