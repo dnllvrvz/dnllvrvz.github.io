@@ -11,15 +11,13 @@ layout: page
 
 <p>I feel that, usually, when we talk about ourselves, we do it in a very
 linear fashion, starting from the mediums we use <i>(you have been reading
-this text from left-to-right in a up-to-down screen isn't?)</i>. That makes it
-challenging for us to communicate the complexities of our lives.
-At least that's something I feel when I'm trying to talk about myself.</p>
+this text from left-to-right in a up-to-down screen isn't?)</i>. My opinion
+is that this poses some challenges for us to communicate the complexities
+of our lives. At least that's something I feel when I try to talk about myself.</p>
 
 <p>Even so, I think sometimes I do a good job at that, like in the video below:</p>
 
-<iframe width=100% height="315" frameBorder="0"
-src="https://youtu.be/mgK8QFYdbNk">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mgK8QFYdbNk" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <ul class="skill-list">
 	<li><small>slip tedx talk in about page (✔)</small></li>
@@ -35,9 +33,7 @@ complexity in my life. And I hope this will bring clarity to questions such as
 widget/app on R to talk about some of my previous academic and work experiences.</p>
 
 <p><small><i>Drag and scroll for perspective. Hover for more information.</i></small></p>
-<iframe width=100% height="400" frameBorder="0"
-src="https://dnllvrvz.shinyapps.io/timeline/">
-</iframe>
+<iframe src="https://dnllvrvz.shinyapps.io/timeline/"></iframe>
 
 <h2>Mapping non-linearity</h2>
 
