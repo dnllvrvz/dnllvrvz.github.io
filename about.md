@@ -41,14 +41,14 @@ increased greatly, so I stopped trying to linearize them.
 
 <p>When I had to present myself in late 2018, I came up with a good way to visually
 communicate more of said complexity, through a mapping of the things I had been doing by then.
-For that, I had the help of a beautiful piece of art by artist <a href="https://www.instagram.com/janainamello/">Janaina Mello Landini</a>:
+For that, I had the help of a beautiful piece of art by artist <a href="https://www.instagram.com/janainamello/">Janaina Mello Landini</a>:</p>
 
 ![MapCV](/assets/images/mapcv.png)
 
-Here, I tried to create a sense of how the things I have been doing lately are connected
+<p>Here, I tried to create a sense of how the things I have been doing lately are connected
 and feedback into each other. This representation does not hold the details
-of the activities I performed and how they connect, but it does hint at a truthful
-model of how things went.
+of the activities I performed, but it does map well how things developed until late 2018.
+But, of course, <strong>the map is not the territory</strong>.</p>
 
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
