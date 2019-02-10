@@ -4,6 +4,7 @@ layout: page
 ---
 <!--![Profile Image]({{ site.url }}/{{ site.picture }}) image coming from profile-->
 ![BorbolEUta](/assets/images/borboleuta.png)
+![MapCV](/assets/images/mapcv.png)
 
 <h1>Complex Vitae</h1>
 
@@ -43,6 +44,7 @@ increased greatly, so I stopped trying to linearize them.
 communicate more of said complexity, through a mapping of the things I had been doing by then.
 For that, I had the help of a beautiful piece of art by artist <a href="https://www.instagram.com/janainamello/">Janaina Mello Landini</a>:</p>
 
+![BorbolEUta](/assets/images/borboleuta.png)
 ![MapCV](/assets/images/mapcv.png)
 
 <p>Here, I tried to create a sense of how the things I have been doing lately are connected
