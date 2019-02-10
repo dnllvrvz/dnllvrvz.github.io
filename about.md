@@ -7,7 +7,7 @@ layout: page
 
 <h1>Complex Vitae</h1>
 
-<h2>It's hard to tell a Non-linear story in a linear fashion</h2>
+<h2>It's hard to tell a nonlinear story in a linear fashion</h2>
 
 <p>I feel that, usually, when we talk about ourselves, we do it in a very
 linear fashion, starting from the mediums we use <i>(you have been reading
@@ -15,13 +15,9 @@ this text from left-to-right in a up-to-down screen isn't?)</i>. My opinion
 is that this poses some challenges for us to communicate the complexities
 of our lives. At least that's something I feel when I try to talk about myself.</p>
 
-<p>Even so, I think sometimes I do a good job at that, like in the video below:</p>
+<p>Even so, I think sometimes I do a good job at that, like in the video below <small>(slip tedx talk in about page ✔):</small></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mgK8QFYdbNk" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<ul class="skill-list">
-	<li><small>slip tedx talk in about page (✔)</small></li>
-</ul>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/mgK8QFYdbNk" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <p>Challenge acknowledged, here I'll strive to transmit a bit more of said
 complexity in my life. And I hope this will bring clarity to questions such as
@@ -29,11 +25,12 @@ complexity in my life. And I hope this will bring clarity to questions such as
 
 <h2>Last Resume Attempt</h2>
 
-<p>When I worked on my previous portfolio in 2017, I created a simple interactive
+<p>When I worked on my previous portfolio, I created a simple interactive
 widget/app on R to talk about some of my previous academic and work experiences.</p>
 
+<center><small><i>Drag and scroll for perspective. Hover for more information.</i></small></center>
 <iframe width="100%" height="400" src="https://dnllvrvz.shinyapps.io/timeline/" frameBorder="0">
-<small><i>Drag and scroll for perspective. Hover for more information.</i></small></iframe>
+</iframe>
 
 <h2>Mapping non-linearity</h2>
 
