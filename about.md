@@ -4,7 +4,6 @@ layout: page
 ---
 <!--![Profile Image]({{ site.url }}/{{ site.picture }}) image coming from profile-->
 ![BorbolEUta](/assets/images/borboleuta.png)
-![MapCV](/assets/images/mapcv.png)
 
 <h1>Complex Vitae</h1>
 
@@ -19,7 +18,7 @@ of our lives. At least that's something I feel when I try to talk about myself.<
 <p>Even so, I think sometimes I do a good job at that, like in the video below
 <small>(slip tedx talk in cv ✔):</small></p>
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/mgK8QFYdbNk" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="600" height="315" src="https://www.youtube.com/embed/mgK8QFYdbNk" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <p>Challenge acknowledged, here I'll strive to transmit a bit more of said
 complexity in my life. And I hope this will bring clarity to questions such as
@@ -31,8 +30,8 @@ complexity in my life. And I hope this will bring clarity to questions such as
 widget/app on R to display some of my previous academic and work experiences.</p>
 
 <center><small><i>Drag and scroll for perspective. Hover items for more information.</i></small></center>
-<iframe width="560" height="400" src="https://dnllvrvz.shinyapps.io/timeline/" frameBorder="0">
-</iframe>
+<center><iframe width="600" height="400" src="https://dnllvrvz.shinyapps.io/timeline/" frameBorder="0">
+</iframe></center>
 
 <p>Here we have information about my schooling, work and where I lived in the world
 from 2013 until early 2018. After that, the level of complexity of the things I do have
@@ -44,13 +43,12 @@ increased greatly, so I stopped trying to linearize them.
 communicate more of said complexity, through a mapping of the things I had been doing by then.
 For that, I had the help of a beautiful piece of art by artist <a href="https://www.instagram.com/janainamello/">Janaina Mello Landini</a>:</p>
 
-![BorbolEUta](/assets/images/borboleuta.png)
-![MapCV](/assets/images/mapcv.png)
+<center><img src="https://i.imgur.com/jOVS3al.jpg" width="600"></img></center>
 
-<p>Here, I tried to create a sense of how the things I have been doing lately are connected
-and feedback into each other. This representation does not hold the details
-of the activities I performed, but it does map well how things developed until late 2018.
-But, of course, <strong>the map is not the territory</strong>.</p>
+<p><strong>The map is not the territory</strong>. Here, I tried to create a sense
+of how the things I have been doing lately are connected and feedback into each other.
+This representation does not hold the details of the activities I performed,
+but it does map well how things developed until late 2018.</p>
 
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
