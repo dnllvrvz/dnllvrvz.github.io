@@ -5,35 +5,39 @@ layout: page
 <!--![Profile Image]({{ site.url }}/{{ site.picture }}) image coming from profile-->
 ![BorbolEUta](/assets/images/borboleuta.png)
 
-<h2>It's hard to tell a non-linear story in a linear fashion</h2>
+<h1>Complex Vitae</h1>
+
+<h2>It's hard to tell a Non-linear story in a linear fashion</h2>
 
 <p>I feel that, usually, when we talk about ourselves, we do it in a very
-linear fashion - starting from the mediums we use (you have been reading
-this text from left-to-right in a up-to-down screen isn't?). That makes it
-challenging for us to explore the possible complexities of that which we do
-in life. I feel that when I'm trying to talk about myself. Even so, I think
-that sometimes I  manage to make sense, like in the video below</p>
+linear fashion, starting from the mediums we use <i>(you have been reading
+this text from left-to-right in a up-to-down screen isn't?)</i>. That makes it
+challenging for us to communicate the complexities of our lives.
+At least that's something I feel when I'm trying to talk about myself.</p>
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
+<p>Even so, I think sometimes I do a good job at that, like in the video below:</p>
+
+<iframe width=100% height="315" frameBorder="0"
+src="https://youtu.be/mgK8QFYdbNk">
 </iframe>
 
 <ul class="skill-list">
-	<li> slip tedx talk into about page ✔</li>
+	<li><small>slip tedx talk in about page (✔)</small></li>
 </ul>
 
-<p>Challenge acknowledged, I'll strive here to transmit a bit more of said
-complexity in my life. And I hope this will bring clarity to the questions
+<p>Challenge acknowledged, here I'll strive to transmit a bit more of said
+complexity in my life. And I hope this will bring clarity to questions such as
 "What do you do?", "Where have you studied?", "Where do you work?", etc.</p>
 
 <h2>Last Resume Attempt</h2>
 
-<p>When I worked on my previous portifolio in 2017, I created a simple interactive
-widget/app on R to talk about some of my previous experiences. Here it is:</p>
+<p>When I worked on my previous portfolio in 2017, I created a simple interactive
+widget/app on R to talk about some of my previous academic and work experiences.</p>
 
-<div> style="margin: 45px 0 0 0">
-				<center><p><i>Drag and scroll for perspective. Hover for more information.</i></p></center>
-				<iframe src="https://dnllvrvz.shinyapps.io/timeline/" width=100% height="400" frameBorder="0" ></iframe></div>
+<p><small><i>Drag and scroll for perspective. Hover for more information.</i></small></p>
+<iframe width=100% height="400" frameBorder="0"
+src="https://dnllvrvz.shinyapps.io/timeline/">
+</iframe>
 
 <h2>Mapping non-linearity</h2>
 
