@@ -30,7 +30,7 @@ complexity in my life. And I hope this will bring clarity to questions such as
 widget/app on R to display some of my previous academic and work experiences.</p>
 
 <center><small><i>Drag and scroll for perspective. Hover items for more information.</i></small></center>
-<iframe width="100%" height="400" src="https://dnllvrvz.shinyapps.io/timeline/" frameBorder="0">
+<iframe width="560" height="400" src="https://dnllvrvz.shinyapps.io/timeline/" frameBorder="0">
 </iframe>
 
 <p>Here we have information about my schooling, work and where I lived in the world
