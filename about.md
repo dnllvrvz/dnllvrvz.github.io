@@ -41,7 +41,7 @@ increased greatly, so I stopped trying to linearize them.
 
 <p>When I had to present myself in late 2018, I came up with a good way to visually
 communicate more of said complexity, through a mapping of the things I had been doing by then.
-For that, I had the help of a beautiful piece of art by artist <a href="https://www.instagram.com/janainamello/">Janaina Mello Landini</a>:</p>
+For that, I had the help of a beautiful piece of art by artist <a href="http://www.mellolandini.com/">Janaina Mello Landini</a>:</p>
 
 <center><img src="https://i.imgur.com/jOVS3al.jpg" width="100%"></center>
 
