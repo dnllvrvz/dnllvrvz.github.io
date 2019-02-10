@@ -32,7 +32,7 @@ complexity in my life. And I hope this will bring clarity to questions such as
 <p>When I worked on my previous portfolio in 2017, I created a simple interactive
 widget/app on R to talk about some of my previous academic and work experiences.</p>
 
-<iframe width=100% height="400" src="https://dnllvrvz.shinyapps.io/timeline/" frameBorder="0">
+<iframe width="100%" height="400" src="https://dnllvrvz.shinyapps.io/timeline/" frameBorder="0">
 <small><i>Drag and scroll for perspective. Hover for more information.</i></small></iframe>
 
 <h2>Mapping non-linearity</h2>
