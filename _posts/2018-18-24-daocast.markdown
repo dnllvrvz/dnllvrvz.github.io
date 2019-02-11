@@ -1,5 +1,5 @@
 ---
-title: ":mic: DAOcast - A Podcast about Decentralized Autonomous Organizations"
+title: "🎙 DAOcast - Podcast about Decentralized Autonomous Organizations"
 layout: post
 date: 2018-10-24
 tag:

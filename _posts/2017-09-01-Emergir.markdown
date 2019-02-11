@@ -1,5 +1,5 @@
 ---
-title: ":butterfly: Emergir - A Portal to Complexity in PT"
+title: ":butterfly: Emergir - Portal to Complexity in PT"
 layout: post
 date: 2017-09-01
 tag:
