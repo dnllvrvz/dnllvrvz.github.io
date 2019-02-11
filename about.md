@@ -43,8 +43,7 @@ increased greatly, so I stopped trying to linearize them.</p>
 communicate more of said complexity, through a mapping of the things I had been doing by then.
 For that, I had the help of a beautiful piece of art by artist <a href="http://www.mellolandini.com/">Janaina Mello Landini</a>:</p>
 
-![MapCV](/assets/images/mapcv.png){: class="bigger-image" }
-<figcaption class="caption">The Map is Not the Territory</figcaption>
+![MapCV][/assets/images/mapcv.png]{: class="bigger-image" }
 
 <p><strong>The map is not the territory</strong>. Here, I tried to create a sense
 of how the things I have been doing lately are connected and feedback into each other.
