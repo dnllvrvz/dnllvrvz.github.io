@@ -45,6 +45,8 @@ For that, I had the help of a beautiful piece of art by artist <a href="http://w
 
 <center><img src="https://i.imgur.com/jOVS3al.jpg" width="560"></center>
 
+![Mapcv][/assets/images/mapcv.png]{: class="bigger-image" }
+
 <p><strong>The map is not the territory</strong>. Here, I tried to create a sense
 of how the things I have been doing lately are connected and feedback into each other.
 This representation does not hold the details of the activities I performed,

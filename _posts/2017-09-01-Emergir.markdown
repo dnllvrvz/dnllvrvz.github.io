@@ -1,5 +1,5 @@
 ---
-title: ":butterfly: Emergir"
+title: ":butterfly: Emergir - A Portal to Complexity in PT"
 layout: post
 date: 2017-09-01
 tag:
@@ -10,7 +10,7 @@ tag:
 - podcast
 - português
 - netweaving
-image: https://koppl.in/indigo/assets/images/emergir.png
+image: /assets/images/projects/emergir.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
