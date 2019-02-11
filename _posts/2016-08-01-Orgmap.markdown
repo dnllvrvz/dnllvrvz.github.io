@@ -1,5 +1,5 @@
 ---
-title: ":computer: Map of Organizations"
+title: "📌 Map of Organizations"
 layout: post
 date: 2016-08-01
 tag:
