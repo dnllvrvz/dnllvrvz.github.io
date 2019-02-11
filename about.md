@@ -43,9 +43,7 @@ increased greatly, so I stopped trying to linearize them.
 communicate more of said complexity, through a mapping of the things I had been doing by then.
 For that, I had the help of a beautiful piece of art by artist <a href="http://www.mellolandini.com/">Janaina Mello Landini</a>:</p>
 
-<center><img src="https://i.imgur.com/jOVS3al.jpg" width="560"></center>
-
-![Mapcv][/assets/images/mapcv.png]{: class="bigger-image" }
+<center><img src="https://i.imgur.com/jOVS3al.jpg" width="1200"></center>
 
 <p><strong>The map is not the territory</strong>. Here, I tried to create a sense
 of how the things I have been doing lately are connected and feedback into each other.
@@ -54,7 +52,12 @@ but it does map well how things developed until late 2018.</p>
 
 <h2>But what can you actually do?</h2>
 
-<p>I understand it is expected of any CV to contain a list of skills, crafts, and wizardries.</p>
+<p>I understand that it is expected of any CV to contain a list of skills, crafts, and wizardries,
+as well as short descriptions of previous experiences. The truth, however, is that in all of the activities
+I partook, I had to learn and exercise a variety of abilities, so it's hard for me to decide which one to list.
+Besides, I believe <b>proficiency is mostly contextual</b>, meaning that <b>given the appropriate context (time, motivation, etc)</b> most things can be performed.</p>
+
+<h3>Patterns</h3>
 
 
 
