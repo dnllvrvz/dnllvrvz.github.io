@@ -6,7 +6,6 @@ tag:
 - complexidade
 - emergencia
 - videos
-- texts
 - podcast
 - português
 - netweaving

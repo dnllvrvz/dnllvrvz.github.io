@@ -35,7 +35,7 @@ widget/app on R to display some of my previous academic and work experiences.</p
 
 <p>Here we have information about my schooling, work and where I lived in the world
 from 2013 until early 2018. After that, the level of complexity of the things I do have
-increased greatly, so I stopped trying to linearize them.
+increased greatly, so I stopped trying to linearize them.</p>
 
 <h2>Mapping nonlinearity</h2>
 
@@ -43,7 +43,8 @@ increased greatly, so I stopped trying to linearize them.
 communicate more of said complexity, through a mapping of the things I had been doing by then.
 For that, I had the help of a beautiful piece of art by artist <a href="http://www.mellolandini.com/">Janaina Mello Landini</a>:</p>
 
-<center><img src="https://i.imgur.com/jOVS3al.jpg"></center>
+<center><img src="https://i.imgur.com/jOVS3al.jpg" size=></center>
+![BorbolEUta](/assets/images/borboleuta.png)
 
 <p><strong>The map is not the territory</strong>. Here, I tried to create a sense
 of how the things I have been doing lately are connected and feedback into each other.
@@ -57,7 +58,13 @@ as well as short descriptions of previous experiences. The truth, however, is th
 I partook, I had to learn and exercise a variety of abilities, so it's hard for me to decide which one to list.
 Besides, I believe <b>proficiency is mostly contextual</b>, meaning that <b>given the appropriate context (time, motivation, etc)</b> most things can be performed.</p>
 
-<h3>Patterns</h3>
+<h3>From Patterns</h3>
+
+<h3>To Details</h3>
+
+<h2>Lastly, Initial Conditions</h2>
+
+What is more nonlinear than finishing with the beginning?
 
 
 
