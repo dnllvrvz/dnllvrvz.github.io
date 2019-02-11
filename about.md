@@ -18,19 +18,19 @@ of our lives. At least that's something I feel when I try to talk about myself.<
 <p>Even so, I think sometimes I do a good job at that, like in the video below
 <small>(slip tedx talk in cv ✔):</small></p>
 
-<center><iframe width="100%" height="315" src="https://www.youtube.com/embed/mgK8QFYdbNk" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/mgK8QFYdbNk" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <p>Challenge acknowledged, here I'll strive to transmit a bit more of said
-complexity in my life. And I hope this will bring clarity to questions such as
+complexity in my life. And I hope this will shed light on questions such as
 "What do you do?", "Where have you studied?", "Where do you work?", etc.</p>
 
-<h2>Last Resume Attempt</h2>
+<h2>Last Resume</h2>
 
 <p>When I worked on my previous portfolio, I created a simple interactive
 widget/app on R to display some of my previous academic and work experiences.</p>
 
 <center><small><i>Drag and scroll for perspective. Hover items for more information.</i></small></center>
-<center><iframe width="100%" height="400" src="https://dnllvrvz.shinyapps.io/timeline/" frameBorder="0">
+<center><iframe width="100%" height="315" src="https://dnllvrvz.shinyapps.io/timeline/" frameBorder="0">
 </iframe></center>
 
 <p>Here we have information about my schooling, work and where I lived in the world
@@ -43,14 +43,17 @@ increased greatly, so I stopped trying to linearize them.
 communicate more of said complexity, through a mapping of the things I had been doing by then.
 For that, I had the help of a beautiful piece of art by artist <a href="http://www.mellolandini.com/">Janaina Mello Landini</a>:</p>
 
-<center><img src="https://i.imgur.com/jOVS3al.jpg" width="100%"></center>
+<center><img src="https://i.imgur.com/jOVS3al.jpg" width=100%></center>
 
 <p><strong>The map is not the territory</strong>. Here, I tried to create a sense
 of how the things I have been doing lately are connected and feedback into each other.
 This representation does not hold the details of the activities I performed,
 but it does map well how things developed until late 2018.</p>
 
-<h2>What about now?</h2>
+<h2>But what can you actually do?</h2>
+
+<p>I understand it is expected of any CV to contain a list of skills, crafts, and wizardries.</p>
+
 
 
 
