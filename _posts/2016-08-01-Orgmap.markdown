@@ -1,0 +1,14 @@
+---
+title: ":computer: Map of Organizations"
+layout: post
+date: 2016-08-01
+tag:
+- english
+- mapping
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "This map organizes all businesses, institutes, and NGOs that I admire. If an organization is in this map, it means that it is working towards new forms of discovery, collaboration, and development."
+category: project
+author: danilo
+externalLink: "https://kumu.io/danilovaz/org-map#org-map"
+---
