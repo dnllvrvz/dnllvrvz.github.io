@@ -43,7 +43,7 @@ increased greatly, so I stopped trying to linearize them.
 communicate more of said complexity, through a mapping of the things I had been doing by then.
 For that, I had the help of a beautiful piece of art by artist <a href="http://www.mellolandini.com/">Janaina Mello Landini</a>:</p>
 
-<center><img src="https://i.imgur.com/jOVS3al.jpg" width=100%></center>
+<center><img src="https://i.imgur.com/jOVS3al.jpg" width="560"></center>
 
 <p><strong>The map is not the territory</strong>. Here, I tried to create a sense
 of how the things I have been doing lately are connected and feedback into each other.
