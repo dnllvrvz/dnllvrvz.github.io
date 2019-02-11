@@ -1,7 +1,7 @@
 ---
 title: "🍄 Map-celium - Mapping the Rise of Fungi"
 layout: post
-date: 2016-09-11
+date: 2018-09-11
 tag:
 - english
 - mapping
