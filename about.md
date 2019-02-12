@@ -52,38 +52,48 @@ but it does map well how things developed until late 2018.</p>
 
 <h2>But what can you actually do?</h2>
 
-<p>I understand that it is expected of any CV to contain a list of skills, crafts, and wizardries,
-as well as short descriptions of previous experiences. The truth, however, is that in all of the activities
-I partook, I had to learn and exercise a variety of abilities, so it's hard for me to decide which one to list.
-Besides, I believe <b>proficiency is mostly contextual</b>, meaning that <b>given the appropriate context (time, motivation, etc)</b> most things can be performed.</p>
+<p>I believe <b>proficiency is mostly contextual</b>, meaning that, <b>given the
+appropriate context (time, motivation, etc),</b> most things can be performed.
+This is not to say I can perform anything, but I do try to be a polymath.</p>
 
 <h3>From Patterns</h3>
 
+<p>There are patterns that characterize my performance:</P>
+
+<ul class="skill-list">
+	<li>Experimentation and Co-creation are main approaches</li>
+	<li>Open interaction and communication are key</li>
+	<li>Uncertainty does not bring discomfort</li>
+	<li>Autonomy is very much appreciated</li>
+	<li>Activities are taken as processes</li>
+	<li>Goals are contextual, thus dynamic
+	<li>I learn and refine as I go</li>
+</ul>
+
 <h3>To Details</h3>
+
+<ul>
+	<li>I can create and sustain the field for group conversations and projects</li>
+	 	<li><small><i>Call it Emergent Consulting</i></small></li>
+	<li>I can create content</li>
+		<li><small><i>From writing/filming/interviewing, to editing, to animating</i></small></li>
+	<li>I can perform varied Research</li>
+		<li><small><i>Well versed in the scientific method</i></small></li>
+		<li><small><i>Striving to live a qualitative empirically life</i></small></li>
+	<li>I can do basic WebDev/Design, Python, R, and Netlogo</li>
+		<li><small><i>Open source copy and paste approach</i></small></li>
+</ul>
+
+<h3>To Examples</h3>
+
+<p>Check the <a href="https://dnllvrvz.github.io/projects/">Projects</a> section of this website
+to see some examples of what I am describing above. The <a href="https://dnllvrvz.github.io/tags/">Tags page</a> can also be helpful for that.
 
 <h2>Lastly, Initial Conditions</h2>
 
 What is more nonlinear than finishing with the beginning?
 
-
-
-
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+![MapCV](/assets/images/mapcv.png){: class="bigger-image" }
 
 <h2>Projects</h2>
 
