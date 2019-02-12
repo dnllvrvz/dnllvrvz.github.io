@@ -66,7 +66,7 @@ This is not to say I can perform anything, but I do try to be a polymath.</p>
 	<li>Uncertainty does not bring discomfort</li>
 	<li>Autonomy is very much appreciated</li>
 	<li>Activities are taken as processes</li>
-	<li>Goals are contextual, thus dynamic
+	<li>Goals are contextual, thus dynamic</li>
 	<li>I learn and refine as I go</li>
 </ul>
 
