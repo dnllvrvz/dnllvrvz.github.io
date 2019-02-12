@@ -74,14 +74,14 @@ This is not to say I can perform anything, but I do try to be a polymath.</p>
 
 <ul>
 	<li>I can create and sustain the field for group conversations and projects</li>
-	 	<li><small><i>Call it Emergent Consulting</i></small></li>
+	 	<ul><li><small><i>Call it Emergent Consulting</i></small></li></ul>
 	<li>I can create content</li>
-		<li><small><i>From writing/filming/interviewing, to editing, to animating</i></small></li>
+		<ul><li><small><i>From writing/filming/interviewing, to editing, to animating</i></small></li></ul>
 	<li>I can perform varied Research</li>
-		<li><small><i>Well versed in the scientific method</i></small></li>
-		<li><small><i>Striving to live a qualitative empirically life</i></small></li>
+		<ul><li><small><i>Well versed in the scientific method</i></small></li>
+		<li><small><i>Striving to live a qualitative empirically life</i></small></li></ul>
 	<li>I can do basic WebDev/Design, Python, R, and Netlogo</li>
-		<li><small><i>Open source copy and paste approach</i></small></li>
+		<ul><li><small><i>Open source copy and paste approach</i></small></li></ul>
 </ul>
 
 <h3>To Examples</h3>
@@ -91,9 +91,7 @@ to see some examples of what I am describing above. The <a href="https://dnllvrv
 
 <h2>Lastly, Initial Conditions</h2>
 
-What is more nonlinear than finishing with the beginning?
-
-![MapCV](/assets/images/mapcv.png){: class="bigger-image" }
+<p>What is more nonlinear than finishing with the beginning?</p>
 
 <h2>Projects</h2>
 
