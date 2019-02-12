@@ -1,5 +1,5 @@
 ---
-title: ":butterfly: Emergir - Portal para o mundo de Complexidade e Pensamento Sistêmico"
+title: ":butterfly: Emergir - Portal para Complexidade e Pensamento Sistêmico"
 layout: post
 date: 2017-09-01
 tag:
