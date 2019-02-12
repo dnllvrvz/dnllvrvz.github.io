@@ -72,7 +72,7 @@ This is not to say I can perform anything, but I do try to be a polymath.</p>
 
 <h3>To Details</h3>
 
-<ul>
+<ul class="skill-list">
 	<li>I can create and sustain the field for group conversations and projects</li>
 	 	<ul><li><small><i>Call it Emergent Consulting</i></small></li></ul>
 	<li>I can create content</li>
