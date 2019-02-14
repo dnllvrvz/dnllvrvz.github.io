@@ -75,9 +75,9 @@ This is not to say I can perform anything, but I do try to be a polymath.</p>
 <ul class="skill-list">
 	<li>I can create and sustain the field for group conversations and projects</li>
 	 	<ul><li><small><i>Call it Emergent Consulting</i></small></li></ul>
-	<li>I can create content</li>
+	<li>I can give life to different types of content</li>
 		<ul><li><small><i>From writing/filming/interviewing, to editing, to animating</i></small></li></ul>
-	<li>I can perform varied Research</li>
+	<li>I can perform Research</li>
 		<ul><li><small><i>Well versed in the scientific method</i></small></li>
 		<li><small><i>Striving to live a qualitative empirically life</i></small></li></ul>
 	<li>I can do basic WebDev/Design, Python, R, and Netlogo</li>
@@ -93,10 +93,29 @@ to see some examples of what I am describing above. The <a href="https://dnllvrv
 
 <p>What is more nonlinear than finishing with the beginning?</p>
 
-<h2>Projects</h2>
+<p>My story in this planet starts in one of the largest peripheral cities of São Paul, Brazil.
+Growing up in the beautiful and creative caos of <a href="https://www.openstreetmap.org/search?query=carapicu%C3%ADba#map=13/-23.5473/-46.8452">Carapicuíba</a>, I learned a great
+deal about self-organization and complexity long before hearing about such concepts.</p>
+
+<p>By the age of 15, I was lucky (and competent?) enough to attend <a href="http://www.sidarta.org.br/colegio/pt/">Sidarta</a> - one of the best private schools in the country - with a fully paid scholarship through the NGO <a href="https://www.ismart.org.br/">ISMART</a>, breaking many cycles in the history of my family and starting a new phase of my journey.</p>
+
+<p>From then on, I kept on learning and growing through scholarships. I can't help being very proud of them,
+so I think they deserve to be here as well:</p>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li>ISMART scholarship for low-income high-school student</li>
+	<li>Scholarship for English education at Cultura Inglesa</li>
+	<li>Partial scholarship for Preparing Global Leaders Academy - Jordan</li>
+	<ul><li><small><i>Remaining +$1800 raised through an online crowdfunding campaign</i></small></li></ul>
+	<li>Research scholarship at São Paulo State University</li>
+	<li>Full tuition & boarding scholarship at Minerva Schools at KGI</li>
+	<li>AB-Inbev scholarship for Brazilian students abroad</li>
+	<li>Full scholarship for Capra Course</li>
 </ul>
+
+<h2>"Today"</h2>
+
+<p>All this (and more) brings me to "today", where most of my activities are
+not intermediated by institutions (call me a free learner/practitioner) and I have
+the means to try to live out my interests and the theories I study. What this means?
+Luckily, the answers to this are constantly changing. So I think we will need to have a chat?</p>

@@ -1,5 +1,5 @@
 ---
-title: ":butterfly: Emergir - Portal para Complexidade e Pensamento Sistêmico"
+title: ":butterfly: Emergir - Adaptação à Complexidade"
 layout: post
 date: 2017-09-01
 tag:
@@ -18,5 +18,3 @@ category: project
 author: danilo
 externalLink: "https://www.emergir.co/"
 ---
-
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)

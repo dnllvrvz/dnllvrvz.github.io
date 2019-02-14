@@ -1,0 +1,17 @@
+---
+title: "🕸 ISMAPA - Mapeamento e Análise da Rede de bolsistas do ISMART"
+layout: post
+date: 2018-06-01
+tag:
+- complexidade
+- mapping
+- netweaving
+image: /assets/images/projects/emergir.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "exploração entre Emergir e Ismart com caráter experimental e educacional que visa explorar as possibilidades trazidas pelo mapeamento - e análise - de redes de pessoas (comunidades) para o planejamento de ações em prol desta rede."
+category: project
+author: danilo
+externalLink: "https://www.emergir.co/ismapa/"
+---
