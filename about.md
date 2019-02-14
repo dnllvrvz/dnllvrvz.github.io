@@ -91,13 +91,13 @@ to see some examples of what I am describing above. The <a href="https://dnllvrv
 
 <h2>Lastly, Initial Conditions</h2>
 
-<p>What is more nonlinear than finishing with the beginning?</p>
+<p><small><i>What is more nonlinear than finishing with the beginning?</i></small></p>
 
-<p>My story in this planet starts in one of the largest peripheral cities of São Paul, Brazil.
+<p>My story in this planet starts in one of the largest peripheral cities of São Paulo, Brazil.
 Growing up in the beautiful and creative caos of <a href="https://www.openstreetmap.org/search?query=carapicu%C3%ADba#map=13/-23.5473/-46.8452">Carapicuíba</a>, I learned a great
 deal about self-organization and complexity long before hearing about such concepts.</p>
 
-<p>By the age of 15, I was lucky (and competent?) enough to attend <a href="http://www.sidarta.org.br/colegio/pt/">Sidarta</a> - one of the best private schools in the country - with a fully paid scholarship through the NGO <a href="https://www.ismart.org.br/">ISMART</a>, breaking many cycles in the history of my family and starting a new phase of my journey.</p>
+<p>By the age of 15, I was lucky (and competent?) enough to attend <a href="http://www.sidarta.org.br/colegio/pt/">Sidarta</a> - one of the best private schools in the country - with a fully paid scholarship through the NGO <a href="https://www.ismart.org.br/">ISMART</a>, breaking many cycles in the history of my family and marking a new phase of my journey.</p>
 
 <p>From then on, I kept on learning and growing through scholarships. I can't help being very proud of them,
 so I think they deserve to be here as well:</p>
@@ -110,8 +110,7 @@ so I think they deserve to be here as well:</p>
 	<li>Research scholarship at São Paulo State University</li>
 	<li>Full tuition & boarding scholarship at Minerva Schools at KGI</li>
 	<li>AB-Inbev scholarship for Brazilian students abroad</li>
-	<li>Full scholarship for Capra Course</li>
-</ul>
+	<li>Full scholarship for Capra Course attendance</li>
 
 <h2>"Today"</h2>
 
