@@ -111,6 +111,7 @@ so I think they deserve to be here as well:</p>
 	<li>Full tuition & boarding scholarship at Minerva Schools at KGI</li>
 	<li>AB-Inbev scholarship for Brazilian students abroad</li>
 	<li>Full scholarship for Capra Course attendance</li>
+</ul>
 
 <h2>"Today"</h2>
 
