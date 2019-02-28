@@ -53,7 +53,7 @@ of how the things I have been doing lately are connected and feedback into each 
 This representation does not hold the details of the activities I performed,
 but it does map well how things developed until late 2018.</p>
 
-<h2>But what can you actually do?</h2>
+<h2>"But what can you actually do?"</h2>
 
 <p>I believe <b>proficiency is mostly contextual</b>. Meaning that, <b>given the
 appropriate context (time, motivation, etc),</b> most things can be performed.
