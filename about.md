@@ -94,7 +94,7 @@ to see some examples of what I am describing above. The <a href="https://dnllvrv
 
 <h2>Lastly, Initial Conditions</h2>
 
-<p><small><i>What is more nonlinear than finishing with the beginning?</i></small></p>
+<center><p><small><i>What is more nonlinear than finishing with the beginning?</i></small></p></center>
 
 <p>My story in this planet starts in one of the largest peripheral cities of São Paulo, Brazil.
 Growing up in the beautiful and creative caos of <a href="https://www.openstreetmap.org/search?query=carapicu%C3%ADba#map=13/-23.5473/-46.8452">Carapicuíba</a>, I learned a great
