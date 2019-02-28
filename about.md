@@ -43,12 +43,11 @@ increased greatly, so I stopped trying to linearize them.</p>
 
 <p>When I had to present myself in <b>late 2018</b>, I came up with a good way to visually
 communicate more of said complexity, via a map of the things I had been doing until then.
-For that, I had the help of a beautiful piece of art by artist <a href="http://www.mellolandini.com/">Janaina Mello Landini</a>:</p>
+For that, I had the help of a beautiful piece of art by artist <a href="http://www.mellolandini.com/">Janaina Mello Landini</a> (CICLOTRAMA 114 (vento):)</p>
 
 ![MapCV](/assets/images/mapcv.png){: class="bigger-image" }
-<figcaption class="caption">"The map is not the territory". Inspirado em CICLOTRAMA 114 (vento)"</figcaption>
 
-<p> Here, I tried to create a sense
+<p>"The map is not the territory". Here, I tried to create a sense
 of how the things I have been doing lately are connected and feedback into each other.
 This representation does not hold the details of the activities I performed,
 but it does map well how things developed until that point.</p>
