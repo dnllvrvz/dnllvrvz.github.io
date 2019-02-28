@@ -35,7 +35,7 @@ widget/app on R to display some of my previous academic and work experiences.</p
 <iframe width="100%" height="315" src="https://dnllvrvz.shinyapps.io/timeline/" frameBorder="0">
 </iframe>
 
-<p>Here we have information about my schooling, work and where I lived in the world
+<p>Here we have information about my schooling, work and where I have been in the world
 from 2013 until early 2018. After that, the level of complexity of the things I do have
 increased greatly, so I stopped trying to linearize them.</p>
 
