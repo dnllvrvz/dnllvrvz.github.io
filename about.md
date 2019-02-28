@@ -84,7 +84,7 @@ This is not to say I can perform anything, but I do try to be a polymath.</p>
 		<ul><li><small><i>Well versed in the scientific method</i></small></li>
 		<li><small><i>Striving to live a qualitative empirically life</i></small></li></ul>
 	<li>I can do basic WebDev/Design, Python, R, and Netlogo</li>
-		<ul><li><small><i>Open source copy and paste approach</i></small></li></ul>
+		<ul><li><small><i>Copy & paste approach</i></small></li></ul>
 </ul>
 
 <h3>To Examples</h3>
