@@ -23,7 +23,7 @@ of our lives. At least that's something I feel when I try to talk about myself.<
 
 <p>Challenge acknowledged, here I'll strive to transmit a bit more of said
 complexity in my life. And I hope this will shed light on questions such as
-**"What do you do?"**, **"Where have you studied?"**, **"Where do you work?"**, etc.</p>
+<b>"What do you do?", "Where have you studied?", "Where do you work?"</b>, etc.</p>
 
 <h2>Last Resume</h2>
 
@@ -36,7 +36,7 @@ widget/app on R to display some of my previous academic and work experiences.</p
 </iframe>
 
 <p>Here we have information about my schooling, work and where I had been in the world
-from 2013 until early 2018. After that, the level of complexity of the things I do have
+<b>from 2013 until early 2018</b>. After that, the level of complexity of the things I do have
 increased greatly, so I stopped trying to linearize them.</p>
 
 <h2>Mapping nonlinearity</h2>
