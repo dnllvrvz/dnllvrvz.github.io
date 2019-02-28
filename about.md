@@ -18,14 +18,12 @@ this text from left-to-right in a up-to-down screen isn't?)</i>. My opinion
 is that this poses some challenges for us to communicate the complexities
 of our lives. At least that's something I feel when I try to talk about myself.</p>
 
-<p>Even so, I think sometimes I do a good job at that, like in the video below
-<small>(slip tedx talk in cv ✔):</small></p>
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/mgK8QFYdbNk" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p>Even so, I think sometimes I do a good job at that, like in the video below</p>
+<p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/mgK8QFYdbNk" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <p>Challenge acknowledged, here I'll strive to transmit a bit more of said
 complexity in my life. And I hope this will shed light on questions such as
-"What do you do?", "Where have you studied?", "Where do you work?", etc.</p>
+**"What do you do?"**, **"Where have you studied?"**, **"Where do you work?"**, etc.</p>
 
 <h2>Last Resume</h2>
 
@@ -33,8 +31,9 @@ complexity in my life. And I hope this will shed light on questions such as
 widget/app on R to display some of my previous academic and work experiences.</p>
 
 <center><small><i>Drag and scroll for perspective. Hover items for more information.</i></small></center>
-<center><iframe width="100%" height="315" src="https://dnllvrvz.shinyapps.io/timeline/" frameBorder="0">
-</iframe></center>
+
+<iframe width="100%" height="315" src="https://dnllvrvz.shinyapps.io/timeline/" frameBorder="0">
+</iframe>
 
 <p>Here we have information about my schooling, work and where I lived in the world
 from 2013 until early 2018. After that, the level of complexity of the things I do have
