@@ -47,8 +47,9 @@ communicate more of said complexity, through a mapping of the things I had been 
 For that, I had the help of a beautiful piece of art by artist <a href="http://www.mellolandini.com/">Janaina Mello Landini</a>:</p>
 
 ![MapCV](/assets/images/mapcv.png){: class="bigger-image" }
+<figcaption class="caption">"The map is not the territory". Inspirado em CICLOTRAMA 114 (vento)"</figcaption>
 
-<p><strong>The map is not the territory</strong>. Here, I tried to create a sense
+Here, I tried to create a sense
 of how the things I have been doing lately are connected and feedback into each other.
 This representation does not hold the details of the activities I performed,
 but it does map well how things developed until late 2018.</p>
@@ -109,7 +110,7 @@ so I think they deserve to be here as well:</p>
 	<li>ISMART scholarship for low-income high-school student</li>
 	<li>Scholarship for English education at Cultura Inglesa</li>
 	<li>Partial scholarship for Preparing Global Leaders Academy - Jordan</li>
-	<ul><li><small><i>Remaining +$1800 raised through an online crowdfunding campaign</i></small></li></ul>
+	<ul><li><small><i>Remaining +$1800 raised through an <a href="https://www.kickante.com.br/campanhas/danilo-na-pgla-jordania">online crowdfunding campaign</a></i></small></li></ul>
 	<li>Research scholarship at São Paulo State University</li>
 	<li>Full tuition & boarding scholarship at Minerva Schools at KGI</li>
 	<li>AB-Inbev scholarship for Brazilian students abroad</li>
