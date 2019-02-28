@@ -9,6 +9,7 @@ tag:
 - podcast
 - português
 - netweaving
+- animação-em-rede
 image: /assets/images/projects/emergir.png
 headerImage: true
 projects: true

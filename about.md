@@ -119,3 +119,7 @@ so I think they deserve to be here as well:</p>
 not intermediated by institutions (call me a free learner/practitioner) and I have
 the means to try to live out my interests and the theories I study. What this means?
 Luckily, the answers to this are constantly changing. So I think we will need to have a chat?</p>
+
+<h2>1 min</h2>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/VQPnoJa9XnY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
