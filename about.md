@@ -3,10 +3,12 @@ title: About
 layout: page
 ---
 <!--![Profile Image]({{ site.url }}/{{ site.picture }}) image coming from profile-->
-<h1>Complex Vitae</h1>
-
 ![BorbolEUta](/assets/images/borboleuta.png)
 <figcaption class="caption">Ao emergir, a Borboleta vê o mundo de ponta-cabeça</figcaption>
+
+---
+
+<h1>Complex Vitae</h1>
 
 <h2>It's hard to tell a nonlinear story in a linear fashion</h2>
 
