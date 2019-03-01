@@ -26,6 +26,8 @@ of our lives. At least that's something I feel when I try to talk about myself.<
 complexity in my life. And I hope this will shed light on questions such as
 <b>"What do you do?", "Where have you studied?", "Where do you work?"</b>, etc.</p>
 
+---
+
 <h2>Last Resume</h2>
 
 <p>When I worked on my previous portfolio, I created a simple interactive
@@ -40,6 +42,8 @@ widget/app on R to display some of my previous academic and work experiences.</p
 <b>from 2013 until early 2018</b>. After that, the level of complexity of the things I do have
 increased greatly, so I stopped trying to linearize them.</p>
 
+---
+
 <h2>Mapping nonlinearity</h2>
 
 <p>When I had to present myself in <b>late 2018</b>, I came up with a good way to visually
@@ -47,14 +51,14 @@ communicate more of said complexity, via a map of the things I had been doing un
 For that, I had the help of a beautiful piece of art by artist <a href="http://www.mellolandini.com/">Janaina Mello Landini</a>:</p>
 
 ![MapCV](/assets/images/mapcv.png){: class="bigger-image" }
-<figcaption class="caption">"The map is not the territory". Inspirado em CICLOTRAMA 114 (vento)"</figcaption>
-
-![MapCV2](/assets/images/mapcv.png)
+<figcaption class="caption">The map is not the territory. Inspired by CICLOTRAMA 114 (vento)</figcaption>
 
 <p> Here, I tried to create a sense
 of how the things I have been doing lately are connected and feedback into each other.
 This representation does not hold the details of the activities I performed,
 but it does map well how things developed until that point.</p>
+
+---
 
 <h2>"But what can you actually do?"</h2>
 
@@ -95,6 +99,8 @@ This is not to say I can perform anything, but I do try to be a polymath.</p>
 <p>Check the <a href="https://dnllvrvz.github.io/projects/">Projects</a> section of this website
 to see some examples of what I am describing above. The <a href="https://dnllvrvz.github.io/tags/">Tags page</a> can also be helpful for that.
 
+---
+
 <h2>Lastly, Initial Conditions</h2>
 
 <center><small><p><i>What is more nonlinear than finishing with the beginning?</i></p></small></center>
@@ -118,6 +124,8 @@ so I think they deserve to be here as well:</p>
 	<li>AB-Inbev scholarship for Brazilian students abroad</li>
 	<li>Full scholarship for Capra Course attendance</li>
 </ul>
+
+---
 
 <h2>"Today"</h2>
 
