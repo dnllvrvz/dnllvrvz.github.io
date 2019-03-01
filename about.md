@@ -64,7 +64,7 @@ but it does map well how things developed until that point.</p>
 
 <p>I believe <b>proficiency is mostly contextual</b>. Meaning that, <b>given the
 appropriate context (time, motivation, etc),</b> most things can be performed.
-This is not to say I can perform anything, but I do try to be a polymath.</p>
+This is not to say I can perform anything, but I do try to nurture a polymath spirit.</p>
 
 <h3>From Patterns</h3>
 
