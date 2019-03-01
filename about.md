@@ -97,7 +97,7 @@ This is not to say I can perform anything, but I do try to be a polymath.</p>
 <h3>To Examples</h3>
 
 <p>Check the <a href="https://dnllvrvz.github.io/projects/">Projects</a> section of this website
-to see some examples of what I am describing above. The <a href="https://dnllvrvz.github.io/tags/">Tags page</a> can also be helpful for that.
+to see some examples of what I am describing above. The <a href="https://dnllvrvz.github.io/tags/">Tags page</a> can also be helpful for that.</p>
 
 ---
 
