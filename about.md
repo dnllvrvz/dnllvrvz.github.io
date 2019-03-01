@@ -30,7 +30,7 @@ complexity in my life. And I hope this will shed light on questions such as
 <p>When I worked on my previous portfolio, I created a simple interactive
 widget/app on R to display some of my previous academic and work experiences.</p>
 
-<center><small><i>Drag and scroll for perspective. Hover items for more information.</i></small></center>
+<center><small><i><p>Drag and scroll for perspective. Hover items for more information.</p></i></small></center>
 
 <iframe width="100%" height="315" src="https://dnllvrvz.shinyapps.io/timeline/" frameBorder="0">
 </iframe>
@@ -46,8 +46,9 @@ communicate more of said complexity, via a map of the things I had been doing un
 For that, I had the help of a beautiful piece of art by artist <a href="http://www.mellolandini.com/">Janaina Mello Landini</a>:</p>
 
 ![MapCV](/assets/images/mapcv.png){: class="bigger-image" }
-![MapCV2](/assets/images/mapcv.png)
 <figcaption class="caption">"The map is not the territory". Inspirado em CICLOTRAMA 114 (vento)"</figcaption>
+
+![MapCV2](/assets/images/mapcv.png)
 
 <p> Here, I tried to create a sense
 of how the things I have been doing lately are connected and feedback into each other.
