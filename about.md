@@ -133,12 +133,10 @@ so I think they deserve to be here as well:</p>
 not intermediated by institutions (call me a free learner/practitioner) and I have
 the means to try to live out my interests and the theories I study. What this means?
 Fortunately for me, the answers to this question are constantly changing.
-So I think we will need to have a chat?</p>
-
-<!-- Calendly link widget begin -->
+So I think we will need to <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/danilooliveiravaz');return false;">have a chat?</a>
+<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/danilooliveiravaz');return false;">have a chat?</a></p>
 <!-- Calendly link widget end -->
 
 ---
