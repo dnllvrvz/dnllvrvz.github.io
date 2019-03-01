@@ -101,9 +101,9 @@ to see some examples of what I am describing above. The <a href="https://dnllvrv
 
 ---
 
-<h2>Lastly, Initial Conditions</h2>
+<h2>Initial Conditions</h2>
 
-<center><small><p><i>What is more nonlinear than finishing with the beginning?</i></p></small></center>
+<center><small><p><i>What is more nonlinear than concluding with the beginning?</i></p></small></center>
 
 <p>My story in this planet starts in one of the largest peripheral cities of São Paulo, Brazil.
 Growing up in the beautiful and creative caos of <a href="https://www.openstreetmap.org/search?query=carapicu%C3%ADba#map=13/-23.5473/-46.8452">Carapicuíba</a>, I learned a great
@@ -132,7 +132,13 @@ so I think they deserve to be here as well:</p>
 <p>All this (and more) brings me to "today", where most of my activities are
 not intermediated by institutions (call me a free learner/practitioner) and I have
 the means to try to live out my interests and the theories I study. What this means?
-Luckily, the answers to this are constantly changing. So I think we will need to have a chat?</p>
+Fortunately for me, the answers to this question are constantly changing.
+So I think we will need to have a chat?</p>
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/danilooliveiravaz" style="min-width:320px;height:580px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->
 
 ---
 
