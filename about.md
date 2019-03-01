@@ -18,8 +18,9 @@ this text from left-to-right in a up-to-down screen isn't?)</i>. My opinion
 is that this poses some challenges for us to communicate the complexities
 of our lives. At least that's something I feel when I try to talk about myself.</p>
 
-<p>Even so, I think sometimes I do a good job at that, like in the video below</p>
-<p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/mgK8QFYdbNk" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p>Even so, I think sometimes I do a good job at that, like in the video below:</p>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/mgK8QFYdbNk" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <p>Challenge acknowledged, here I'll strive to transmit a bit more of said
 complexity in my life. And I hope this will shed light on questions such as
@@ -96,7 +97,7 @@ to see some examples of what I am describing above. The <a href="https://dnllvrv
 
 <h2>Lastly, Initial Conditions</h2>
 
-<center><p><small><i>What is more nonlinear than finishing with the beginning?</i></small></p></center>
+<center><small><p><i>What is more nonlinear than finishing with the beginning?</i></p></small></center>
 
 <p>My story in this planet starts in one of the largest peripheral cities of São Paulo, Brazil.
 Growing up in the beautiful and creative caos of <a href="https://www.openstreetmap.org/search?query=carapicu%C3%ADba#map=13/-23.5473/-46.8452">Carapicuíba</a>, I learned a great
