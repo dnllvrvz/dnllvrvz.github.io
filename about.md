@@ -135,10 +135,11 @@ the means to try to live out my interests and the theories I study. What this me
 Fortunately for me, the answers to this question are constantly changing.
 So I think we will need to have a chat?</p>
 
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/danilooliveiravaz" style="min-width:320px;height:580px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/danilooliveiravaz');return false;">have a chat?</a>
+<!-- Calendly link widget end -->
 
 ---
 
