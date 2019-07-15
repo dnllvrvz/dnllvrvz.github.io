@@ -17,4 +17,4 @@ layout: page
 
 ---
 
-<h3>For more "about me", please check my [CV](https://dnllvrvz.github.io/complexvitae/).</h3>
+For more "about me", please check my [CV](https://dnllvrvz.github.io/complexvitae/).
