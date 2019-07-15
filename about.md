@@ -2,145 +2,19 @@
 title: About
 layout: page
 ---
-<!--![Profile Image]({{ site.url }}/{{ site.picture }}) image coming from profile-->
-![BorbolEUta](/assets/images/borboleuta.png)
-<figcaption class="caption">Ao emergir, a Borboleta vê o mundo de ponta-cabeça</figcaption>
 
----
-
-<h1>Complex Vitae</h1>
-
-<h2>It's hard to tell a nonlinear story in a linear fashion</h2>
-
-<p>I feel that, usually, when we talk about ourselves, we do it in a very
-linear fashion, starting from the mediums we use <i>(you have been reading
-this text from left-to-right in a up-to-down screen isn't?)</i>. My opinion
-is that this poses some challenges for us to communicate the complexities
-of our lives. At least that's something I feel when I try to talk about myself.</p>
-
-<p>Even so, I think sometimes I do a good job at that, like in the video below:</p>
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/mgK8QFYdbNk" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-<p>Challenge acknowledged, here I'll strive to transmit a bit more of said
-complexity in my life. And I hope this will shed light on questions such as
-<b>"What do you do?", "Where have you studied?", "Where do you work?"</b>, etc.</p>
-
----
-
-<h2>Last Resume</h2>
-
-<p>When I worked on my previous portfolio, I created a simple interactive
-widget/app on R to display some of my previous academic and work experiences.</p>
-
-<center><small><i><p>Drag and scroll for perspective. Hover items for more information.</p></i></small></center>
-
-<iframe width="100%" height="315" src="https://dnllvrvz.shinyapps.io/timeline/" frameBorder="0">
-</iframe>
-
-<p>Here we have information about my schooling, work and where I had been in the world
-<b>from 2013 until early 2018</b>. After that, the level of complexity of the things I do have
-increased greatly, so I stopped trying to linearize them.</p>
-
----
-
-<h2>Mapping nonlinearity</h2>
-
-<p>When I had to present myself in <b>late 2018</b>, I came up with a good way to visually
-communicate more of said complexity, via a map of the things I had been doing until then.
-For that, I had the help of a beautiful piece of art by artist <a href="http://www.mellolandini.com/">Janaina Mello Landini</a>:</p>
-
-![MapCV](/assets/images/mapcv.png){: class="bigger-image" }
-<figcaption class="caption">The map is not the territory. Inspired by CICLOTRAMA 114 (vento)</figcaption>
-
-<p> Here, I tried to create a sense
-of how the things I have been doing lately are connected and feedback into each other.
-This representation does not hold the details of the activities I performed,
-but it does map well how things developed until that point.</p>
-
----
-
-<h2>"But what can you actually do?"</h2>
-
-<p>I believe <b>proficiency is mostly contextual</b>. Meaning that, <b>given the
-appropriate context (time, motivation, etc),</b> most things can be performed.
-This is not to say I can perform anything, but I do try to nurture a polymath spirit.</p>
-
-<h3>From Patterns</h3>
-
-<p>There are patterns that characterize my performance:</P>
-
-<ul class="skill-list">
-	<li>Experimentation and Co-creation are main approaches</li>
-	<li>Open interaction and communication are key</li>
-	<li>Uncertainty does not bring discomfort</li>
-	<li>Autonomy is very much appreciated</li>
-	<li>Activities are taken as processes</li>
-	<li>Goals are contextual, thus dynamic</li>
-	<li>I learn and refine as I go</li>
-</ul>
-
-<h3>To Details</h3>
-
-<ul class="skill-list">
-	<li>I can create and sustain the field for group conversations and projects</li>
-	 	<ul><li><small><i>Call it Emergent Consulting</i></small></li></ul>
-	<li>I can give life to different types of content</li>
-		<ul><li><small><i>From writing/filming/interviewing, to editing, to animating</i></small></li></ul>
-	<li>I can perform Research</li>
-		<ul><li><small><i>Well versed in the scientific method</i></small></li>
-		<li><small><i>Striving to live a qualitative empirically life</i></small></li></ul>
-	<li>I can do basic WebDev/Design, Python, R, and Netlogo</li>
-		<ul><li><small><i>Copy & paste approach</i></small></li></ul>
-</ul>
-
-<h3>To Examples</h3>
-
-<p>Check the <a href="https://dnllvrvz.github.io/projects/">Projects</a> section of this website
-to see some examples of what I am describing above. The <a href="https://dnllvrvz.github.io/tags/">Tags page</a> can also be helpful for that.</p>
-
----
-
-<h2>Initial Conditions</h2>
-
-<center><small><p><i>What is more nonlinear than concluding with the beginning?</i></p></small></center>
-
-<p>My story in this planet starts in one of the largest peripheral cities of São Paulo, Brazil.
-Growing up in the beautiful and creative caos of <a href="https://www.openstreetmap.org/search?query=carapicu%C3%ADba#map=13/-23.5473/-46.8452">Carapicuíba</a>, I learned a great
-deal about self-organization and complexity long before hearing about such concepts.</p>
-
-<p>By the age of 15, I was lucky (and competent?) enough to attend <a href="http://www.sidarta.org.br/colegio/pt/">Sidarta</a> - one of the best private schools in the country - with a fully paid scholarship through the NGO <a href="https://www.ismart.org.br/">ISMART</a>, breaking many cycles in the history of my family and marking a new phase of my journey.</p>
-
-<p>From then on, I kept on learning and growing through scholarships. I can't help being very proud of them,
-so I think they deserve to be here as well:</p>
-
-<ul>
-	<li>ISMART scholarship for low-income high-school student</li>
-	<li>Scholarship for English education at Cultura Inglesa</li>
-	<li>Partial scholarship for Preparing Global Leaders Academy - Jordan</li>
-	<ul><li><small><i>Remaining +$1800 raised through an <a href="https://www.kickante.com.br/campanhas/danilo-na-pgla-jordania">online crowdfunding campaign</a></i></small></li></ul>
-	<li>Research scholarship at São Paulo State University</li>
-	<li>Full tuition & boarding scholarship at Minerva Schools at KGI</li>
-	<li>AB-Inbev scholarship for Brazilian students abroad</li>
-	<li>Full scholarship for Capra Course attendance</li>
-</ul>
-
----
-
-<h2>"Today"</h2>
-
-<p>All this (and more) brings me to "today", where most of my activities are
-not intermediated by institutions (call me a free learner/practitioner) and I have
-the means to try to live out my interests and the theories I study. What this means?
-Fortunately for me, the answers to this question are constantly changing.
-So I think we will need to <!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/danilooliveiravaz');return false;">have a chat?</a></p>
-<!-- Calendly link widget end -->
-
----
-
-<h2>1 min</h2>
+<h2>A bit about me in 1 min</h2>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/VQPnoJa9XnY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<h2>A bit about me in 14 minutes</h2>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/H6E3wDJ33lU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<h2>A bit about me in 18 minutes</h2>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/mgK8QFYdbNk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+---
+
+For more "about me", please check my [CV](https://dnllvrvz.github.io/).
