@@ -1,7 +1,7 @@
 ---
 title: "Complex Vitae"
 layout: post
-date: 2019-01-01
+date: 2019-02-28
 image: /assets/images/borboleuta.png
 headerImage: True
 tag:
@@ -12,11 +12,6 @@ category: blog
 author: danilo
 ---
 
-<!--![Profile Image]({{ site.url }}/{{ site.picture }}) image coming from profile-->
-![BorbolEUta](/assets/images/borboleuta.png)
-<figcaption class="caption">Ao emergir, a Borboleta vê o mundo de ponta-cabeça</figcaption>
-
----
 
 <h1>Complex Vitae</h1>
 
@@ -148,5 +143,3 @@ So I think we will need to <!-- Calendly link widget begin -->
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 <a href="" onclick="Calendly.showPopupWidget('https://calendly.com/danilooliveiravaz');return false;">have a chat?</a></p>
 <!-- Calendly link widget end -->
-
----
