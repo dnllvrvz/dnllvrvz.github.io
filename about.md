@@ -3,6 +3,9 @@ title: About
 layout: page
 ---
 
+<p>Hi, welcome to this web-space.</p>
+<p>Here, you will find an ongoing compilation of my writings, drawings, maps, ideas, rants, as well as some information about my "professional and educational" backgrounds.</p>
+
 <h1>A bit about me in 1 min</h1>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/VQPnoJa9XnY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
