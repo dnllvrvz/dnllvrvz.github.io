@@ -12,9 +12,6 @@ category: blog
 author: danilo
 ---
 
-
-<h1>Complex Vitae</h1>
-
 <h2>It's hard to tell a nonlinear story in a linear fashion</h2>
 
 <p>I feel that, usually, when we talk about ourselves, we do it in a very
