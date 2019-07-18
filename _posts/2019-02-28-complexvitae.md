@@ -149,4 +149,4 @@ Therefore, I suggest we have<!-- Calendly link widget begin -->
 <!-- Calendly link widget end -->
 
 ![eu](/assets/images/eu.jpg){: class="bigger-image" }
-<figcaption class="caption">See you soon!</figcaption>
+<figcaption class="caption">See you!</figcaption>
