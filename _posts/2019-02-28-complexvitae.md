@@ -48,8 +48,7 @@ increased greatly, so I stopped trying to linearize them.</p>
 communicate more of said complexity through a map of the things I had been doing until then.
 For that, I built on top of a beautiful piece of art by artist <a href="http://www.mellolandini.com/">Janaina Mello Landini</a>:</p>
 
-![MapCV](/assets/images/mapcv.png){: class="bigger-image" }
-<figcaption class="caption">The map is not the territory. Inspired by CICLOTRAMA 114 (vento)</figcaption>
+![MapCV](/assets/images/mapcv.png){: class="bigger-image" } <figcaption class="caption">The map is not the territory. Inspired by CICLOTRAMA 114 (vento)</figcaption>
 
 <p>I tried to create a sense of how the things I have been doing lately are
 interconnected and feedback into each other. This representation does not hold

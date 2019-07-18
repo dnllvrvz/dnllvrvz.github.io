@@ -3,8 +3,8 @@ title: About
 layout: page
 ---
 
-<p>Hi, welcome to this web-space.</p>
-<p>Here, you will find an ongoing compilation of my writings, drawings, maps, ideas, rants, as well as some information about my "professional and educational" backgrounds.</p>
+<p>Welcome to my web-space.</p>
+<p>Here, you will find an ongoing compilation of my writings, drawings, maps, ideas, rants, as well as some info about my "professional and educational" backgrounds.</p>
 
 ---
 
