@@ -133,11 +133,11 @@ seen in the history of my family.</p>
 not intermediated by institutions (call me a free-learner/researcher/practitioner/lancer),
 and I try to live out my interests and the theories I study. What this means?
 Well, the answers to this question are constantly changing, given that I have
-really been engaging with a varied of different activities, travels, studies, and so on.
+really been engaging with a varied of different activities, travels, studies, and so on.</p>
 
 <h3>Reference</h3>
 
-I think that this informal "reference" from <a href="https://scholar.google.com/citations?user=bbdc3vkAAAAJ&hl=en">Dr. Michael Zargham</a> exemplifies what I'm trying to say:
+<p>I think that this informal "reference" from <a href="https://scholar.google.com/citations?user=bbdc3vkAAAAJ&hl=en">Dr. Michael Zargham</a> exemplifies what I'm trying to say:</p>
 
 ![reference](/assets/images/reference.png){: class="bigger-image" }
 <figcaption class="caption">Screen Shot 2019-04-10 at 11.55.17 AM</figcaption>
