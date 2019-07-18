@@ -139,10 +139,10 @@ really been engaging with a varied of different activities, travels, studies, an
 
 <p>I think that this informal "reference" from <a href="https://scholar.google.com/citations?user=bbdc3vkAAAAJ&hl=en">Dr. Michael Zargham</a> exemplifies what I'm trying to say:</p>
 
-![reference](/assets/images/reference.png){: class="bigger-image" }
+![reference](/assets/images/reference.png)
 <figcaption class="caption">Screen Shot 2019-04-10 at 11.55.17 AM</figcaption>
 
-Therefore, I suggest we have<!-- Calendly link widget begin -->
+<p>Therefore, I suggest we have<!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 <a href="" onclick="Calendly.showPopupWidget('https://calendly.com/danilooliveiravaz');return false;"> a chat</a> so I can tell you what I have been up to lately.</p>
