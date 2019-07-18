@@ -118,7 +118,7 @@ seen in the history of my family.</p>
 	<li>2014: Partial tuition scholarship for Preparing Global Leaders Academy - Jordan</li>
 	<ul><li><small><i>Remaining $1800 raised through an <a href="https://www.kickante.com.br/campanhas/danilo-na-pgla-jordania">online crowdfunding campaign</a></i></small></li></ul>
 	<li>2014: Research scholarship at São Paulo State University</li>
-	<li>2015/16: Full tuition & boarding scholarship at [Minerva Schools at KGI](minerva.kgi.edu)</li>
+	<li>2015/16: Full tuition & boarding scholarship at <a href="https://minerva.kgi.edu">Minerva Schools at KGI</a></li>
 	<ul><li><small><i>Renewed for 2016/17</i></small></li></ul>
 	<li>2015/: AB-Inbev grant for Brazilian students in the USA</li>
 	<ul><li><small><i>Renewed for 2016/17</i></small></li></ul>
@@ -137,8 +137,7 @@ really been engaging with a varied of different activities, travels, studies, an
 
 <h3>Reference</h3>
 
-I think that this informal "reference" from [Dr. Michael Zargham](https://scholar.google.com/citations?user=bbdc3vkAAAAJ&hl=en)
-exemplifies what I'm trying to say:
+I think that this informal "reference" from <a href="https://scholar.google.com/citations?user=bbdc3vkAAAAJ&hl=en">Dr. Michael Zargham</a> exemplifies what I'm trying to say:
 
 ![reference](/assets/images/reference.png){: class="bigger-image" }
 <figcaption class="caption">Screen Shot 2019-04-10 at 11.55.17 AM</figcaption>
