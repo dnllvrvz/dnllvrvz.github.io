@@ -64,7 +64,11 @@ appropriate context (time, motivation, access, etc), most things can be performe
 by almost anyone. Personally, this is not to say I can perform everything,
 but I do try to nurture a polymath spirit.</p>
 
-<h3>From Patterns</h3>
+<h3>From Meta</h3>
+
+<p>I recognize behavioral patterns with ease</p>
+
+<h3>to Patterns</h3>
 
 <p>There are patterns that characterize my performance:</P>
 
