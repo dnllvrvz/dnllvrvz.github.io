@@ -26,7 +26,7 @@ layout: page
 
 ---
 
-For more "about me", please check my [CV](https://embed.kumu.io/d16fa701cc3f07c3d6e0f1ed75915791), or <!-- Calendly link widget begin -->
+For more "about me", please check my [CV](https://embed.kumu.io/d16fa701cc3f07c3d6e0f1ed75915791) or <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/danilooliveiravaz/60min'});return false;">get in touch for a chat :)</a>
