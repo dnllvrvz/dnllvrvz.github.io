@@ -23,7 +23,7 @@ layout: page
 <h1>A bit of my co-research in 56 minutes</h1>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/P7Ye0pDIVHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<h1> Here is an interactive map (in PT) with my experiences:
+<h1> Here is an interactive map (in PT) with my experiences:</h1>
 
 <iframe
   src="https://embed.kumu.io/d16fa701cc3f07c3d6e0f1ed75915791"
