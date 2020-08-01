@@ -25,12 +25,12 @@ It was Easter day, 2019, and I had just wakened from my first proper night of sl
 
 I was with some of my childhood friends out in the street we used to play in the periphery of São Paulo, where I grew up. One of them had brought me a gift “for my trip”. A Sintir looking kind of machine that, when hand cranked, shot pieces of flying paper into the sky (Sintir, n.d). Up there, the paper lively self-organized in mesmerizing patterns, moving collectively as one intelligent entity, like birds flocking in their flights. And when I looked up closely, all papers were either red or green, varying in size, but with the same diamond like shape.
 
-![img](/assets/images/posts/morocco/Picture2.jpg)
+![img](/assets/images/posts/morocco/Picture2.png)
 Picture of my diary with drawings of the figures in my dream
 
 Inspired by some texts that I had been reading by Carl Jung, I started to construct a web of symbolic associations within the dream (Jung & In Campbell, 1976). One straight-forward association was between the papers’ colors and the Moroccan flag, both green and red. This complemented the resemblance between the machine in my dream and the Sintir, a very popular instrument in that country. Furthermore, the diamond shape was very similar to the shape of the agents or “turtles” in Netlogo (Wilensky, 1999), a framework for multi-agent computer simulations I had been working with. And the most striking, the organic behavior of the flying pieces in my dream was a clear symbolic instance of the complex phenomenon of Emergence – characterized by individual entities interactively giving life to greater orders of organization; irreducible to any of the individuals; and, in my opinion, most beautifully represented by flocks of birds, swarms of insects, and schools of fishes.
 
-![img](/assets/images/posts/morocco/Picture3.jpg)
+![img](/assets/images/posts/morocco/Picture3.png)
 Flock of birds
 
 This last one was especially relevant because of what I have been doing for at least three years of my life: seeking inspiration and understanding in my life through Emergence. Thus, in that morning, upon reflecting on this dream; the way I arrived in Casablanca; and what I was doing before that, I knew deep inside of me that that was just the beginning of a very emergent trip.
@@ -39,7 +39,7 @@ This last one was especially relevant because of what I have been doing for at l
 
 Before we continue, it is worth stepping back in time and explore how this travel really began. This same year, I was invited to help organize and speak at Systems Innovation Barcelona (SIB), a systems and complex thinking conference with theorists and practitioners from around the world. For me, this came as an opportunity to more deeply study some of the organizing patterns behind our own emergent and co-creative processes. During the three months prior to the conference, I seeded and net-weaved an open and interactive research endeavor on human collaborative creativity. Which, as a meta-process, was what I intended to present at SIB. By opening this experience to whoever empathized with our callouts (shared on social media, mainly), we were able to taste many different perspectives on this flavorful field. And by network-mapping the 10+ hours of video and in-person interactions that we had, I started to notice that some patterns in our own co-creative process were emerging.
 
-![img](/assets/images/posts/morocco/Picture4.jpg)
+![img](/assets/images/posts/morocco/Picture4.png)
 Map of meta concepts and patterns in the co-creative process
 
 On March 31st, [I shared this meta-experience at Systems Innovation](https://youtu.be/P7Ye0pDIVHU), alongside an [agent-based model that I built on Netlogo incorporating the aforementioned patterns](https://github.com/dnllvrvz/Co-creation-and-Emergence). The talk was great and, overall, this entire experience was very valuable for me. Mostly because it gave me deep insights into what is partially necessary for the networks that I have been more intensively connected to to self-organize around creative endeavors. That is, to flock as a super-organism.
@@ -68,12 +68,12 @@ That night, I did not do much other than eat and rest well, for I had spent way 
 
 Nonetheless, waking up with the dream I described completely changed my mood. It reassured me that the process I had initiated was simply flowing in its natural rhythm, giving me strength to trust the unknown ahead. That same morning, I met other travelers at the hostel, hearing stories that made my own feel irrelevant. Through the interactions with them, activities in Casablanca started to emerge, as well as plan sketches for the rest of the trip. During the two days I was there, I did a lot of walking around the city, visiting its old medina, the Hassan II mosque (5th largest in the world), as well as some restaurants, cafes and plazas. Surprisingly, if I did not speak people took me as Moroccan, for my physical features. This felt like a super power given that I could simply walk through corners and streets where tourists would not normally go. That allowed me to discover many alleys and dead-ends filled with vibrant life and delicious street food, usually hidden (or protected) in the city’s mazes. I will never forget the freshly squeezed orange juices I had at this simple tent, neither the football match I watched in a café, and how I celebrated the goals with the other as if I had known those clubs for a life.
 
-![img](/assets/images/posts/morocco/Picture5.jpg)
+![img](/assets/images/posts/morocco/Picture5.png)
 Football match at a café in Casablanca
 
 One special thing kept on calling my attention in Casablanca (and in the rest of the country): the beautiful geometry of Islam. Especially beautiful at the Hassan II mosque, it attracted my attention like magnet. I even “discovered” a new way to appreciate its magic symmetry. By crossing one eyes` when looking at symmetrical geometry, it is possible to find a new focus point between the eyes` (distorted) fields of vision, revealing a vibrant and richer look at the image. A Moroccan friend told me how the geometry could be understood as a portal to the divine, and I could not help but wonder the effects of such beautiful and widespread patterns on people’s daily lives and spirituality. It definitely had an effect on me, that I can feel to these days.
 
-![img](/assets/images/posts/morocco/Picture6.jpg)
+![img](/assets/images/posts/morocco/Picture6.png)
 Picture taken from the front door of the Hassan II Mosque
 
 I met Taylor and Solana at the hostel in Casablanca. Both Canadians, they came to Morocco for a long waited vacation trip. When I heard they were heading south to surf, something told me to join them. Add our easygoingness, and that is how we ended up in the coastal cities Essaouira and Imsouane. Amongst discoveries and adventures, it was when we were traveling together that I started noticing two other organizing pattern of this adventure. Uncontrollability and Unpredictability.
@@ -82,7 +82,7 @@ These were clearly present in the trip from moment one. However, when I saw myse
 
 That did not scare me, though. I accepted it as a natural characteristic of this experience. Which is not to say that it did not bring me discomfort. Being off the controlling wheel feels scary. Sometimes things turn so abruptly that it is tiring and painful. You may want it to just end, as I did in many moments of the trip. Nonetheless, such discomfort can signal that some transformation is taking place. Furthermore, this kind of voyage can take you to very very beautiful places.
 
-![img](/assets/images/posts/morocco/Picture7.jpg)
+![img](/assets/images/posts/morocco/Picture7.png)
 Me in Imsouane through Solana’s lenses
 
 And it can teach you too. In Imsouane, I surfed again - not before two days of being knocked over. But I did surf one entire wave. From its formation, where I swam into it, to its end, where I happily fell in the water. It was marvelous. And it made me reflect on how surfing is such an incredible way to practice flowing through the uncontrollable and unpredictable. Literally. From where, when and how the wave will emerge, to how you will merge with it, it is impossible (at least for me) to be sure of what will happen. But it is possible to train the sensitivity that allows you to connect with that entity, become part of its dynamic, and flow as part of it. That what I feel when I see professional surfers doing their art. They are not trying to control the water, or predict how it will behave. Rather, they are trying to merge and flow as the water.
@@ -99,7 +99,7 @@ In my saga through Morocco, I noticed this towards the end of my time with Taylo
 
 Amidst good and bad things, our times gift us with technologies that allows us to more deeply explore this p2p paradigm. The platform Couchsurfing is one of such means, where travellers can meet locals willing to host or hang out in different parts of the world. That is how I met Eunice in Marrakesh. Although I did not stay at his place, he was very welcoming, receiving me at his shop in the chaotic medina and taking me in tours around the city with his motorcycle.
 
-![img](/assets/images/posts/morocco/Picture8.jpg)
+![img](/assets/images/posts/morocco/Picture8.png)
 Picture taken at Eunice’s motorcycle in Marrakesh
 
 Our interactions were based on mutual trust and very open, which made me feel like we really connected. And from our p2p dialogues over delicious mint tea – The Moroccan whiskey - emerged the next step of my trip. Upon mentioning my curiosity with the desert, and my unwillingness to join a touristic tour, Eunice suggested I visited the desert the “local way”, by taking a bus to Zagora, south-west of Marrakesh. With his tip, I checked Couchsurfing again, finding a perfect destination.
@@ -110,21 +110,21 @@ I trusted I would find a place with internet so I could contact Imad and, most o
 
 Nonetheless, vulnerable trusting paid off. The experience in the farm was one of a kind. Raw, intense, and very inspiring. The desert rural life is not for the weak of spirit, and it definitely has its own rhythm and pace, deeply influenced by the extremely hot environment.
 
-![img](/assets/images/posts/morocco/Picture9.jpg)
+![img](/assets/images/posts/morocco/Picture9.png)
 Freshly watered carrots and palm tree
 
 Personally, it was an honor to plant palm trees in that place, contributing, even if just a little, to the creation of a permanent culture within that biosphere. And the interactions with Imad and Abdulatif, who are bravely building the farm, were no less special. Witnessing how they were not put off by the incredible challenges ahead of them - from the 8 months work of digging a well, to the building of massive mud walls - inspired me to also work on the land, which I hope I will be able to do now that I am home.
 
 After three nights at the farm, eating a lot of the locally grown carrots, I felt that it was time to move one. Now, all the way to the north, where I should have started my journey. Chefchaouen, the blue city, was calling me. My p2p dialogue with Imad carved the way. He told me how I could avoid long and expensive voyages by taking the local buses instead of the line ones. And so I did, venturing into a 24-hour travel, stopping for short connections in Errachidia and Fes. Besides very scenic, this was an interesting journey because of the different villages and small cities we crossed, allowing me to have a slim grasp of the incredible diversity of landscapes, peoples, and costumes in the country. From arid and gray canyons to the high green mountains, Morocco is abundant in beauty.
 
-![img](/assets/images/posts/morocco/Picture10.jpg)
+![img](/assets/images/posts/morocco/Picture10.png)
 Chefchaouen through the mountains
 
 It will be difficult to forget my first sight of Chefchaouen. A small blue and white city deeply hidden in the green and gray mountains of the north. It is a very special place for many reasons. From stories about its cosmic relevance, to the explanations of why the city was painted blue – my favorite being that blue keeps the mosquitos away – “Chaouen” is full of enchantment. Walking through the mazes of the old medina was mesmerizing. Quite literally, given the widespread cultural use of haxixe, grown locally. And the sunsets from the top of the mountain were no less fantastic.
 
 I stayed at Ali Baba’s hotels, sleeping in a roofless rooftop, with an amazing view to the Big Dipper. I found this place through Couchsurfing as well and stayed there for two nights as a guest. My initial idea was to be in the city for three days and then go even further north to Tetouan. However, after this time, things conspired for me to stay longer in Chaouen and so I did. But now, working in exchange for a non-roof at Ali Baba. Staying there longer was very important for me. I now understand it as an Integration phase of my travel. With a lot of meditative activities (cooking, dish washing, floor sweeping, etc.) overlooking the blue city and the mountains, I had a lot of time to reflect. Reflect enough to realize a couple of things.
 
-![img](/assets/images/posts/morocco/Picture11.jpg)
+![img](/assets/images/posts/morocco/Picture11.png)
 Sunset from Ali Baba’s rooftop
 
 One thing I noticed was how much over-thinking I did during the entire trip. As all of these crazy things were happening to me, I could not help but approach them mentally. Only to arrive nowhere other than some irritating loops in my head. But in Chaouen, I had an insight that I bring with me to these days. One can only understand how over-thinking does not help after they over-think a lot. It is only through first hand experience that this becomes clear.
@@ -137,7 +137,7 @@ For all of these reasons, I could see that my stay in Chefchaouen represented a 
 
 There is some literature on the patterns of transformative processes, as the work in progress done by Mindopeners shows us bellow (Possert, 2018). And we can see that, despite the different nomenclature, some of them are rather similar to what I have described.
 
-![img](/assets/images/posts/morocco/Picture12.jpg)
+![img](/assets/images/posts/morocco/Picture12.png)
 Mindopeners – Transformative Patterns
 
 In any case, I have zero doubts that I have become a different person after this trip. And I mean this quite literally, since I even got a new name. While in Imsouane a person who could not believe I was not Moroccan said that my name was not Danilo anymore. Instead, from that day on, I was Mustafa.
