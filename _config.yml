@@ -1,6 +1,10 @@
 # main text of home
 name: Hi, I'm Danilo
+<<<<<<< HEAD
 bio: Complexity Enthusiast. Emergence Explorer.
+=======
+bio: and I’m fascinated by Emergent phenomena. From how complex fungi mycelium emerges into mushrooms, to how culture evolves out of the interaction of social networks.
+>>>>>>> gh-pages
 
 # twitter summary info
 # description: A blog about technology and stuff related
