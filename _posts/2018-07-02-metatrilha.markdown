@@ -4,7 +4,6 @@ layout: post
 date: 2018-08-01
 tag:
 - português
-- mapping
 - complexidade
 - netweaving
 projects: true
