@@ -5,8 +5,6 @@ date: 2020-07-31
 image: /assets/images/posts/morocco/Picture1.png
 headerImage: True
 tag:
-- english
-- myself
 category: blog
 author: Danilo
 ---

@@ -5,9 +5,6 @@ date: 2018-01-10
 image: /assets/images/posts/culture_design/earth.jpg
 headerImage: True
 tag:
-- english
-- complexity
-- evolution
 category: blog
 author: danilo
 ---

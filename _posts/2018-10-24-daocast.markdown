@@ -3,10 +3,7 @@ title: "🎙 DAOcast - Podcast about Decentralized Autonomous Organizations and 
 layout: post
 date: 2018-10-24
 tag:
-- blockchain
-- decentralization
 - podcast
-- english
 image: /assets/images/projects/daocast.png
 headerImage: true
 projects: true

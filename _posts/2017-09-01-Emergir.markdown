@@ -1,15 +1,11 @@
 ---
-title: ":butterfly: Emergir - Adaptação à Complexidade"
+title: ":butterfly: Emergir - Em dança com a Complexidade"
 layout: post
 date: 2017-09-01
 tag:
 - complexidade
-- emergence
-- videos
-- podcast
 - português
 - netweaving
-- animação-em-rede
 image: /assets/images/projects/emergir.png
 headerImage: true
 projects: true

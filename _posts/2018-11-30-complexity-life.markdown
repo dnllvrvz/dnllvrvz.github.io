@@ -5,10 +5,6 @@ date: 2018-11-30
 image: /assets/images/posts/complexity_life/eficacia.jpg
 headerImage: True
 tag:
-- english
-- complexity
-- life
-- emergence
 category: blog
 author: danilo
 ---

@@ -5,8 +5,6 @@ date: 2019-06-08
 image:
 headerImage: True
 tag:
-- português
-- myself
 category: blog
 author: Danilo
 ---

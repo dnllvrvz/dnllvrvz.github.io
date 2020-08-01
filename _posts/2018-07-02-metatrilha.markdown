@@ -6,7 +6,7 @@ tag:
 - português
 - mapping
 - complexidade
-- animação-em-rede
+- netweaving
 projects: true
 hidden: true # don't count this post in blog pagination
 category: project

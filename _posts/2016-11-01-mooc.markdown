@@ -3,9 +3,8 @@ title: "👨‍🏫 eTeacher - How to Become an Online Learner MOOC"
 layout: post
 date: 2016-11-01
 tag:
-- english
 - education
-- videos
+- video
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "In this project I was a *professor* in a meta-MOOC on how to learn online. The course was especially designed for newcomers in Germany, with a focus on how they can get the most out of online learning experiences. And, thus, best utilize [Kiron](https://kiron.ngo/)'s services."

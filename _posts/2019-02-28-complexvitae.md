@@ -5,9 +5,6 @@ date: 2019-02-28
 image: /assets/images/borboleuta.png
 headerImage: True
 tag:
-- english
-- complexity
-- evolution
 category: blog
 author: danilo
 ---

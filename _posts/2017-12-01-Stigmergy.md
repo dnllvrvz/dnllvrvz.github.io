@@ -3,8 +3,6 @@ title: "Stigmergy"
 layout: post
 date: 2017-12-01
 tag:
-- english
-- complexity
 category: blog
 author: danilo
 ---

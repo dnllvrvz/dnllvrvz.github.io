@@ -3,11 +3,10 @@ title: "📹 Community Videos at Minerva Schools at KGI"
 layout: post
 date: 2015-10-01
 tag:
-- education
-- videos
+- video
 projects: true
 hidden: true # don't count this post in blog pagination
-category: 
+category:
 author: danilo
 externalLink: "https://www.flickr.com/photos/138238136@N02/sets/72157689336252574/"
 ---
