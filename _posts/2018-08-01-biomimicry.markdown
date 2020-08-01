@@ -3,7 +3,7 @@ title: "📹 Biomimicry Video"
 layout: post
 date: 2018-08-01
 tag:
-- video
+- audiovisual
 projects: true
 hidden: true # don't count this post in blog pagination
 category:

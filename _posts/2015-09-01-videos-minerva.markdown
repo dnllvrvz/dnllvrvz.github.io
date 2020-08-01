@@ -3,7 +3,7 @@ title: "📹 Community Videos at Minerva Schools at KGI"
 layout: post
 date: 2015-10-01
 tag:
-- video
+- audiovisual
 projects: true
 hidden: true # don't count this post in blog pagination
 category:
