@@ -3,7 +3,6 @@ title: "📹 Community Videos at Minerva Schools at KGI"
 layout: post
 date: 2015-10-01
 tag:
-- english
 - education
 - videos
 projects: true
