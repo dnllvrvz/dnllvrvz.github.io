@@ -7,7 +7,7 @@ tag:
 - videos
 projects: true
 hidden: true # don't count this post in blog pagination
-category: project
+category: 
 author: danilo
 externalLink: "https://www.flickr.com/photos/138238136@N02/sets/72157689336252574/"
 ---
