@@ -3,21 +3,21 @@ title: About
 layout: page
 ---
 
-<p>Welcome to my web-space 👋😊</p>
-<p>Here, you will find an ongoing compilation of my writings, drawings, maps, ideas, rants, as well as some info about my "professional and educational" backgrounds.</p>
+<h1>Welcome to my web-space 👋😊</h1>
+<h3>Here, you will find an ongoing compilation of my writings, drawings, maps, ideas, rants, as well as some info about my "professional and educational" backgrounds.</h3>
 
 ---
 
-<h1>A bit about me, in 1 min (2019)</h1>
+<h2>A bit about me, in 1 min (2019)</h2>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/VQPnoJa9XnY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<h1> A bit of what I've done, in 6 minutes (2019)</h1>
+<h1>Some things I have done, in 6 minutes (2019)</h1>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/QUlNac_iq7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <p>full interview <a href="http://www.whatisemerging.com/profiles/we-are-talking-about-something-so-new-that-it-s-almost-alien">here</a>.</p>
 
-<h1>A bit of what I've been thinking, in 14 minutes (2018)</h1>
+<h1>Some of my thinking, in 14 minutes (2018)</h1>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/H6E3wDJ33lU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
