@@ -3,6 +3,7 @@ title: "🕸 ISMAPA - Mapeamento e Análise da Rede de bolsistas do ISMART"
 layout: post
 date: 2018-06-01
 tag:
+- português
 - mapping
 image: /assets/images/projects/emergir.png
 headerImage: true
