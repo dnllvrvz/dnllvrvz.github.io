@@ -4,7 +4,7 @@ layout: post
 date: 2018-08-01
 tag:
 - português
-- complexidade
+- complexity
 - netweaving
 projects: true
 hidden: true # don't count this post in blog pagination

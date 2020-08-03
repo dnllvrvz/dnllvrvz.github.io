@@ -3,7 +3,7 @@ title: ":butterfly: Emergir - Em dança com a Complexidade"
 layout: post
 date: 2017-09-01
 tag:
-- complexidade
+- complexity
 - português
 - netweaving
 image: /assets/images/projects/emergir.png
