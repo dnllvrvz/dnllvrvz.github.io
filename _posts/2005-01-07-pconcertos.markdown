@@ -1,10 +1,10 @@
 ---
-title: ":computer: Pconcertos - Breaking & Fixing Computers"
+title: "Pconcertos - Breaking & Fixing Computers"
 layout: post
 date: 2005-01-17
 tag:
 - português
-- maker
+- :computer: maker
 image: /assets/images/projects/pconcertos.png
 headerImage: true
 projects: true
