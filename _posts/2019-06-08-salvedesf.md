@@ -1,5 +1,5 @@
 ---
-title: "Salve de SF - 08/Jun/19"
+title: "Salve de SF"
 layout: post
 date: 2019-06-08
 image:
