@@ -1,5 +1,5 @@
 ---
-title: "Rádio Emergir - Explorações e conversas sobre inovações científicas, sociais e culturais que inspiram e criam um mundo de maior resiliência."
+title: "Rádio Emergir"
 layout: post
 date: 2018-10-24
 tag:
