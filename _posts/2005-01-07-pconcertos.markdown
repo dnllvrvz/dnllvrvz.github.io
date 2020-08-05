@@ -4,7 +4,8 @@ layout: post
 date: 2005-01-17
 tag:
 - português
-- :computer: maker
+- maker
+- 🖥️
 image: /assets/images/projects/pconcertos.png
 headerImage: true
 projects: true
