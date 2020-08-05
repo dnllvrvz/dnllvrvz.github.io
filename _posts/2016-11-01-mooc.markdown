@@ -1,5 +1,5 @@
 ---
-title: "eTeacher - How to Become an Online Learner MOOC"
+title: "eTeacher of "How to Become an Online Learner" MOOC"
 layout: post
 date: 2016-11-01
 tag:
