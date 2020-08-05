@@ -1,9 +1,9 @@
 ---
-title: "🎙 DAOcast - Podcast about Decentralized Autonomous Organizations and distributed governing"
+title: "DAOcast - Podcast about Decentralized Autonomous Organizations and distributed governing"
 layout: post
 date: 2018-10-24
 tag:
-- podcast
+- 🎙podcast
 image: /assets/images/projects/daocast.png
 headerImage: true
 projects: true

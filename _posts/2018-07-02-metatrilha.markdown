@@ -1,11 +1,12 @@
 ---
-title: "🗺 MetaTrilha de Exploração e Mapeamento da Complexidade entre NÓS"
+title: "MetaTrilha de Exploração e Mapeamento da Complexidade entre NÓS"
 layout: post
 date: 2018-08-01
 tag:
-- português
-- complexity
-- netweaving
+- 🇧🇷português
+- 🦋complexity
+- 🕸netweaving
+- 🗺️mapping
 projects: true
 hidden: true # don't count this post in blog pagination
 category: project

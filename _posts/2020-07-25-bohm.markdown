@@ -3,7 +3,7 @@ title: "Map about the life & work of David Bohm"
 layout: post
 date: 2020-07-25
 tag:
-- mapping
+- 🗺️mapping
 projects: true
 hidden: true # don't count this post in blog pagination
 description:
