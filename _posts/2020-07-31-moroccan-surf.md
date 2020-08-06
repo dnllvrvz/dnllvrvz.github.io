@@ -17,8 +17,6 @@ You are about to adventure in a transformative saga through the fickle lands of 
 
 ---
 
-# Moroccan Surf
-
 It was Easter day, 2019, and I had just wakened from my first proper night of sleep in Morocco. While in bed, still recovering from my turbulent arrival in that hostel in Casablanca, I started to recollect the pieces of a very symbolic dream I had just had…
 
 I was with some of my childhood friends out in the street we used to play in the periphery of São Paulo, where I grew up. One of them had brought me a gift “for my trip”. A Sintir looking kind of machine that, when hand cranked, shot pieces of flying paper into the sky (Sintir, n.d). Up there, the paper lively self-organized in mesmerizing patterns, moving collectively as one intelligent entity, like birds flocking in their flights. And when I looked up closely, all papers were either red or green, varying in size, but with the same diamond like shape.
