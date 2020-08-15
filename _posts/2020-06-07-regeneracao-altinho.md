@@ -2,20 +2,26 @@
 title: "Regeneração }{ Altinho"
 layout: post
 date: 2020-06-07
-image: /assets/images/posts/altinho/foto.png
+image: /assets/images/posts/altinho/foto.jpg
 headerImage: True
 tag:
 category: blog
 author: Danilo
 ---
 
-Regeneração!
+## Regeneração!
 
 Aos nossos atuais olhos e lentes, a vida parece ser cheia de mistérios e mágica, momentos, e mágica.  Fenômenos que se manifestam nas mais variadas escalas: como abaixo, assim em cima. Complexidade e Emergência. Características observáveis fundamentais da nossa realidade, continuam, como sempre, a acontecer. Mesmo se não conseguimos ver através dos atuais olhos e lentes que temos.
 
 Algo muito fascinante sobre essa dança da vida é que ela, fruto dos fenômenos mencionados acima, parece nos sussurrar padrões e archétipos que, se ouvirmos bem, seremos no mínimo profundamente inspirados. Uns chamam de biomimética, outros tentam se conectar à essa essência através da inteligência artificial. Ambos olhares fascinantes, mas que, a mim (com os atuais olhos e lentes que consigo acessar), eles não se atentam tanto à fonte originadora das formas e algoritmos e rotinas que conseguimos observar. [Li]((http://www.liology.org/))! Na minha leiga definição, a arte e ciência de se observar e sintonizar com os padrões originários dos fenômenos de auto-organização extremamente complexa que nos permeiam.
 
-Por exemplo, que tal olharmos pro fenômeno de Regeneração, que observamos em tantas esferas da nossa vida cotidiana, mesmo quando isso é nebulado pelo rolo compressor do dia-a-dia. Desde o nosso corpo que se regenera constantemente, através de processos de auto-regulação celulares. Até a nossa psique, que à exemplo do corpo parece ter também o andaime das redes como estrutura. E ambos regeneram, à depender de como os tratamos é claro. Coletivamente, eu diria que temos cuidado muito mal desses templos, influenciados por padrões de consumo (inclusive alimentar) muito prejudicais à saude integral do ser. A BOA NOTÍCIA é que já sabemos bem que as experiências e hábitos que incorporamos têm um impacto grande nesse processo regenerativo. Eu, particularmente, posso falar como uma experiência específica me regenera (durante um período, quase que diariamente). O viver e conviver na Casa Livre do Altinho. Esse é um relato que busca menos descrever o que é a Casa Livre (uma coisa não muito simples), e mais relatar sob a ótica subjetiva, o que e como as coisas que eu vivi aqui me regeneraram.
+Por exemplo, que tal olharmos pro fenômeno de Regeneração, que observamos em tantas esferas da nossa vida cotidiana, mesmo quando isso é nebulado pelo rolo compressor do dia-a-dia. Desde o nosso corpo que se regenera constantemente, através de processos de auto-regulação celulares. Até a nossa psique, que à exemplo do corpo parece ter também o andaime das redes como estrutura. E ambos regeneram, à depender de como os tratamos é claro. Coletivamente, eu diria que temos cuidado muito mal desses templos, influenciados por padrões de consumo (inclusive alimentar) muito prejudicais à saude integral do ser. A BOA NOTÍCIA é que já sabemos bem que as experiências e hábitos que incorporamos têm um impacto grande nesse processo regenerativo.
+
+---
+
+![img](/assets/images/posts/altinho/ceu.jpg)
+
+ Eu, particularmente, posso falar como uma experiência específica me regenera (durante um período, quase que diariamente). O viver e conviver na Casa Livre do Altinho. Esse é um relato que busca menos descrever o que é a Casa Livre (uma coisa não muito simples), e mais relatar sob a ótica subjetiva, o que e como as coisas que eu vivi aqui me regeneraram.
 
 Emocionalmente, a regeneração do que eu vivo/vivi aqui tem muito a ver com as minhas origens, no Jardim Popular, em Carapicuíba. Onde cresci como menino e adolescente, esse lugar tem conexões com partes profundas de mim. E o viver no Altinho reascendeu a luz da memória sob o que eu vivi crescendo em uma periferia. Em algumas medidas, parecida com o morro e sua cultura. Por exemplo, por algumas meses eu me vi (e me imagino) nos meninos que frequentam a casa. Principalmente durantes os momentos de jogar futebol na laje (que guardo com carinho). Agora sinto que me ver como menino - diante dos meus olhos. Sem camiseta e de joelho todo coberto de cicatriz - despertou o menino dentro de mim. Que, por sua vez, foi muito bem estimulado pelo teatro clínica de DyoNises no mesmo período de tempo.
 
@@ -44,5 +50,3 @@ A arte por aqui se mostra impactante como em poucos lugares. O fazer artístico,
 E quase todos os momentos de celebração coletiva têm um gosto saboroso que não encontramos nas celebrações protocolares marcadas no calendário gregório. As coisas são mais espontâneas. As pessoas se permitem serem quem são ou querem ser. As vezes gerando desencontros, mas ainda assim acontecendo. Essa alegria, cantada e de certo modo invejada por outros mundos sociais também nutre. E mais uma vez sou levado ao meu passado.
 
 Tudo isso, e muitas coisas outras que não consigo descrever com palavras, compõem os sentimentos (incluíndo saudade) que dá daqui quando não estou aqui. Sentimentos e saudade que não sei como vão se comportar depois que nos mudarmos. O laço existirá pra sempre - de maneiras diferentes, já que a própria casa passa por transformações (você, leitor pode inclusive co-criar essa transformação). Mas é impossível de saber como ele se manifestará. Quer dizer, uma coisa é certa: sempre me trará memórias… caóticas, bonitas, feias, sinfônicas, conflitantes, auto-organizadas, regenerativas!
-
-![img](/assets/images/posts/altinho/foto.png)
