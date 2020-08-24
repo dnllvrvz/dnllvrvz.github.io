@@ -13,7 +13,7 @@ author: Danilo
 
 Antes de começarmos as especulações (sobre sonhos e a obra de David Bohm), é importante conhecermos mais sobre David Bohm e o seu trabalho. Se você tem familiaridade com o inglês, recomendamos que você assista o recente documentário “Infinite Potential” para um excelente overview da vida e ideias de David Bohm.
 
-![film](https://www.youtube.com/embed/XDpurdHKpb8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XDpurdHKpb8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Recomendamos também que você navegue pelo mapa interativo criado a partir do filme que mostra os eventos e teorias principais de Bohm.
 
