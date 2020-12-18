@@ -2,10 +2,11 @@
 title: "The Day a Mushroom Appeared in my Hand"
 layout: post
 date: 2020-12-12
-image: /assets/images/posts/bohm/95.png
+image: /assets/images/posts/mushhand/0.png
 headerImage: True
 tag:
 category: blog
+width: large
 author: Danilo
 ---
 
@@ -24,5 +25,3 @@ But I never imagined what was going to happen. On the day 12.12.2020, a mushroom
 ![img](/assets/images/posts/mushhand/4.jpg)
 
 I can't say if this being has changed me, but something seemed different after it appeared. Something about how I began to see myself in relation to my relationships - with myself, with my emotions, with others. It seemed that I had more clarity, since the day in which a mushroom appeared in my hand.
-
-![img](/assets/images/posts/mushhand/0.png)
