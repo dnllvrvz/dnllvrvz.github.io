@@ -16,7 +16,7 @@ Its shapes and colors currently manifested in our world enchant me, and I've see
 
 From this admiration I sought to know more, contemplate, enter em communion with these beings. A transformative journey, out of which many things emerged, from a Portobello cultivation experience to the Fungi Map-celium:
 
-<iframe src="https://embed.kumu.io/1a9491fa12b428247d03806efcf32a91" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://embed.kumu.io/1a9491fa12b428247d03806efcf32a91" width="720" height="600" frameborder="0"></iframe>
 
 But I never imagined what was going to happen. On the day 12.12.2020, a mushroom appeared in my right hand. A small being, there, as if that place was exactly where it was supposed to be. Imagine by surprise! Without knowing what to do or fell, I contemplated. Its round shape, its black brown cap, its white gills that danced in curves.
 
