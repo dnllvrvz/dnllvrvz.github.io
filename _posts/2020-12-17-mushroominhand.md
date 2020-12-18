@@ -14,7 +14,7 @@ There was already some time that I had been seeking to relate to this fantastic 
 
 Its shapes and colors currently manifested in our world enchant me, and I've seen something magical in these beings for quite some time. The magic of transformation, of living connections via mycelium, of emergence of something new and surprising out of what might seem root and unworthy to the miope eyes.
 
-From this admiration I sought to know more, contemplate, enter em communion with these beings. A transformative journey, out of which many things emerged, from a Portobello cultivation experience to the Fungi Map-celium:
+From this admiration I sought to know more, contemplate, enter em communion with these beings. A transformative journey, out of which many things emerged, from a Portobello cultivation experience to the Fungi Map-celium, an interactive mycelium-inspired relationship map that seeks to connect the people and inniatives working with fungi around the world:
 
 <iframe src="https://embed.kumu.io/1a9491fa12b428247d03806efcf32a91" width="720" height="600" frameborder="0"></iframe>
 
