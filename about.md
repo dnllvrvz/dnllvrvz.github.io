@@ -17,7 +17,7 @@ layout: page
 
 <p>full interview <a href="http://www.whatisemerging.com/profiles/we-are-talking-about-something-so-new-that-it-s-almost-alien">here</a>.</p>
 
-<h2>Some of my thoughts on Networks and Complexity, in 6 minutes (2020)</h2>
+<h2>Me on Networks and Complexity, in 6 minutes (2020)</h2>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/O4i3syu1srs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
