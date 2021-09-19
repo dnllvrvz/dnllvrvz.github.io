@@ -1,0 +1,16 @@
+---
+title: "Mic-célio"
+layout: post
+date: 2021-03-21
+tag:
+- 🇧🇷português
+- 🎙podcast
+- 🍄fungi
+- 🕸netweaving
+- 🗺️mapping
+projects: true
+hidden: true # don't count this post in blog pagination
+category: project
+author: danilo
+externalLink: "https://linktr.ee/miccelio"
+---

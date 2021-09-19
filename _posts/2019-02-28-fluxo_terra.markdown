@@ -1,13 +1,13 @@
 ---
-title: "Fluxo Terra - Em Prol da Regeneração de Gaia"
+title: "BioData Exploration"
 layout: post
-date: 2018-02-28
+date: 2021-06-01
 tag:
-- 🇧🇷português
-- 🕸netweaving
+- 🛠️maker
+- 🍄fungi
 projects: true
 hidden: true # don't count this post in blog pagination
 category: project
 author: danilo
-externalLink: "http://fluxoterra.com/"
+externalLink: "https://github.com/dnllvrvz/BioData-Exploration"
 ---

@@ -1,0 +1,64 @@
+# Authors
+
+Gilbert Ross:
+  name        : "Gilbert Ross"
+  bio         : "Digital Content Alchemist - Pro Writer - Communications Expert"
+  uri         : "https://contentalchemy.weebly.com/"
+  avatar      : "https://contentalchemy.weebly.com/uploads/7/8/5/5/7855837/5711977.jpg?370"
+  email       : "gross39@gmail.com"
+
+Alessandra Bernardo da Silva:
+  name        : "Alessandra Bernardo da Silva"
+  bio         : "Conectar pessoas, conhecimentos e negócios emergentes que façam sentido e revelem o melhor de cada um, é um impulso natural. Gosto de brincar dizendo que estou criando uma nova profissão pra mim: engenheira de pessoas, porque é para elas que olho seja qual for o sistema que eu visualize. Sou Engenheira de Produção de pensamento sistêmico voltado ao futuro, com especializações em gestão, gerenciamento de projetos, governança, consultoria de processos, facilitação de grupos e uma jornada de mais de 10 anos de desenvolvimento pessoal nas bases da antroposofia e mais recentemente do budismo. O que me move? boas conversas!"
+  avatar      : "img/autores/alessandra.jpeg"
+  facebook    : "alessandra.bernardo1"
+  linkedin    : "https://www.linkedin.com/in/alessandrabernardo"
+
+Boyd Cohen:
+  name        : "Boyd Derek Cohen"
+  uri         : "https://boydcohen.impress.ly"
+  bio         : "Ph.D. em Estratégia e Empreendedorismo pela Universidade do Colorado. Professor, pesquisador e participante de atividades de empreendedorismo sustentável em todo o mundo. Iniciou um número de empreendimentos sustentáveis em construção verde, TI verde e, mais recentemente, originação de carbono."
+  avatar      : "img/autores/boyd.jpeg"
+  twitter     : "boydcohen"
+
+Danilo Vaz:
+  name        : "Danilo Oliveira Vaz"
+  uri         : "https://dnllvrvz.github.io"
+  email       : "dnllvrvz@gmail.com"
+  bio         : "Criador Ctrl+C Ctrl+V. Geek de Sistemas Complexos. Apoiador das Commons. Defensor do Open-source. Designer aspirante. Humano"
+  avatar      : "img/autores/danilo.jpg"
+
+Rádio Emergir:
+  name        : "Rádio Emergir"
+  uri         : "https://anchor.fm/radio-emergir"
+  bio         : "Explorações e conversas sobre inovações científicas, sociais e culturais que inspiram e criam um mundo de maior resiliência para a espécie humana e os sistemas dos quais ela faz parte."
+  avatar      : "img/radio_emergir.png"
+
+Amanda Alface:
+  name        : "Amanda Pinheiro Alface"
+  bio         : "Estudante de economia e controladoria na FEA-RP/USP, terapeuta holística e co-criadora do mundo novo. Gosta de sonhar grande, comunicar e estar presente na transição, a serviço do amor."
+  avatar      : "img/autores/alface.jpg"
+  facebook    : "amanda.alface"
+  instagram   : "amandaalface"
+
+Daniel Wahl:
+  name        : "Daniel C. Wahl"
+  bio         : "Biólogo, cientista holístico, PhD em design para sustentabilidade - autor de Designing Regenerative Cultures."
+  uri         : "https://medium.com/@designforsustainability"
+  email       : "designforsustainability@gmail.com"
+  avatar      : "img/autores/daniel.jpeg"
+
+Felipe Tavares:
+  name        : "Felipe Tavares"
+  bio         : "Trabalho para conciliar o desenvolvimento social com a inteligência dos sistemas vivos. Acredito que a sustentabilidade começa com uma mudança de pensamento, e não de técnicas."
+  uri         : "https://desenvolvimentoregenerativo.com/"
+  Facebook    : "felipetavares"
+  avatar      : "img/autores/felipe.jpeg"
+
+Joe:
+  name        : "Joe Brewer"
+  bio         : "Eu sou um estrategista de mudança trabalhando em nome da humanidade, e também um pesquisador de complexidade, cientista cognitivo e evangelista do campo de Design Cultural."
+  uri         : "https://www.patreon.com/joe_brewer/memberships"
+  Twitter     : "https://twitter.com/cognitivepolicy"
+  Facebook    : "https://twitter.com/cognitivepolicy"
+  avatar      : "img/autores/joe.jpeg"
