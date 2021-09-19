@@ -4,7 +4,9 @@ layout: page
 ---
 
 <h1>Welcome to my web-space 👋😊</h1>
-<h3>Here, you will find an ongoing compilation of my writings, drawings, maps, ideas, rants, as well as some info about my "professional and educational" backgrounds.</h3>
+<h1>🇧🇷Bem vinde a minha página na web</h1>
+<h3>Here you will find an ongoing compilation of my writings, drawings, maps, ideas, rants, as well as some info about my "professional and educational" backgrounds.</h3>
+<h3>🇧🇷Aqui você vai encontrar uma crescente compilação dos meus escritos, desenhos, mapas, ideias, reclamações e também algumas informações sobre meu histórico profissinal e educacional.</h3>
 
 ---
 
@@ -29,13 +31,17 @@ layout: page
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/mgK8QFYdbNk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<h2>A bit of my co-research, in 56 minutes (2019)</h2>
+<h2>🇧🇷Alguns pensamentos a respeito de sistemas e complexidade, em 22 minutos (2018)</h2>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/0O9TkTXRLWE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<h2>A Co-research I've weaved, in 56 minutes (2019)</h2>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/P7Ye0pDIVHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
 ---
 
-For more "about me", please check my [CV](https://embed.kumu.io/d16fa701cc3f07c3d6e0f1ed75915791) or <!-- Calendly link widget begin -->
+For more "about me", please check my 🇧🇷[CV](https://embed.kumu.io/d16fa701cc3f07c3d6e0f1ed75915791) or <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/danilooliveiravaz/60min'});return false;">get in touch for a chat :)</a>

@@ -10,7 +10,7 @@ image: /assets/images/projects/emergir.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Emergir is my current effort to spread the word about Complexity in Brazil. The portal has courses, articles, and a podcast (all in Portuguese)."
+description: "Emergir is an ongoing effort to spread the word about Complexity in Brazil. The portal has courses, articles, and a podcast (all in Portuguese). It has also evolved into a digital community."
 category: project
 author: danilo
 externalLink: "https://www.emergir.co/"
