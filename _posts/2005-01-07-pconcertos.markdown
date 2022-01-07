@@ -3,7 +3,6 @@ title: "Pconcertos - Breaking & Fixing Computers"
 layout: post
 date: 2005-01-17
 tag:
-- 🇧🇷português
 - 🛠️maker
 image: /assets/images/projects/pconcertos.png
 headerImage: true
