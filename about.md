@@ -16,12 +16,12 @@ layout: page
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/VQPnoJa9XnY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<h2>Some things I have done, in 6 minutes (2019)</h2>
+<h2>Some things I have helped build, in 6 minutes (2019)</h2>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/QUlNac_iq7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <p>full interview <a href="http://www.whatisemerging.com/profiles/we-are-talking-about-something-so-new-that-it-s-almost-alien">here</a>.</p>
 
-<h2>Me on Networks and Complexity, in 6 minutes (2020)</h2>
+<h2>A couple of thoughts on Networks and Complexity, in 6 minutes (2020)</h2>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/O4i3syu1srs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
