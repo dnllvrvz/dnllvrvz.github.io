@@ -8,6 +8,8 @@ layout: page
 <h3>Here you will find an ongoing compilation of my writings, drawings, maps, ideas, rants, as well as some info about my "professional and educational" backgrounds.</h3>
 <h3>🇧🇷Aqui você vai encontrar uma crescente compilação dos meus escritos, desenhos, mapas, ideias, reclamações e também algumas informações sobre meu histórico profissinal e educacional.</h3>
 
+> Conector de pessoas, ideias e fluxos criativos. Periférico. Vida transformada através de oportunidades educacionais extra-ordinárias (bolsas de estudo para o ensino médio em um dos melhores colégios de São Paulo e para programa de graduação em um universidade internacional itinerante). Desde 2015, nômade digital. Desde 2017, freelancer e pesquisador independente/explorador dos fenômenos característicos da Ciência da Complexidade. Desde 2020, pai, neo-rural e instrutor de projetos e paradigmas em plataformas digitais de educação. Recentemente, auto-proclamado artista amador. Tem como horizonte atual um caminho de auto-desenvolvimento ancorado na conexão com a Natureza - de si próprio e externa. Com isso, almeja aprender a ouvir àquilo e àqueles (humanos ou não) que são normalmente destituídos de voz e valor no complexo da atualidade. Na esperança de ser capaz de intervir de modo transformativo na realidade através da polinização de essências.
+
 ---
 
 <h2>A bit about me, in 1 min (2019)</h2>

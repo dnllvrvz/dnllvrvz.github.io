@@ -1,5 +1,5 @@
 ---
-title: "Salve de SF"
+title: "Fim de ciclo"
 layout: post
 date: 2019-06-08
 image:
@@ -8,6 +8,8 @@ tag:
 category: blog
 author: Danilo
 ---
+
+> Esse texto foi originalmente enviado em um dos pontos de contato do Emergir e foi repostado aqui na íntegra.
 
 Olá a todxs xs Nós ✌🏼🙂
 Espero que estejam todxs bem e acolhidxs nos diferentes cantos da(s) rede(s) que permeamos :)
