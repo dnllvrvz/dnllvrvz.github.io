@@ -1,5 +1,5 @@
 ---
-title: "Complex Vitae"
+title: "CV"
 layout: post
 date: 2019-02-28
 image: /assets/images/borboleuta.png
