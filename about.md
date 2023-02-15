@@ -24,7 +24,7 @@ Tenho como horizonte atual um caminho de auto-desenvolvimento ancorado na conex�
 ---
 <h1>Aqui está um mapa interativo que criei para ilustrar um pouco da minha trajetória:</h1>
 
-<iframe src="https://embed.kumu.io/5d7879b356479ed7597dd8c5cd27f3c0" width="940" height="940" frameborder="0"></iframe> 
+<iframe src="https://embed.kumu.io/7c5e63c228b393ec2980217e7465ff1e" width="940" height="600" frameborder="0"></iframe> 
 
 <h1>Abaixo segue uma lista de atividades, falas e pesquisas que tenho orgulho de destacar - algumas em inglês</h1>
 
