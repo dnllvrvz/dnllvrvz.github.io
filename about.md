@@ -17,22 +17,22 @@ Tive minha vida transformada através de oportunidades educacionais extra-ordin�
 - para graduação em Engenharia Mecânica na UNESP
 - e para programa de graduação em uma [universidade internacional itinerante](https://www.minerva.edu/)
 
-Acabei não concluindo essas graduações e desde 2015, sou nômade digital. Desde 2017, freelancer e pesquisador independente/explorador dos fenômenos característicos da Ciência da Complexidade - inicializador do [Portal Emergir](https://www.emergir.co/). Desde 2020, pai, maker neo-rural e instrutor de projetos e paradigmas em plataformas digitais de educação. Recentemente, auto-proclamado [artista amador](https://danolivaz.hotglue.me/). Desde 14 de Fevereiro de 2023, aluno de Licenciatura em Física do IFPR.
+Acabei não concluindo essas graduações e desde 2015, sou nômade digital. Desde 2017, freelancer e pesquisador independente/explorador dos fenômenos característicos da Ciência da Complexidade - inicializador do [Portal Emergir](https://www.emergir.co/). Desde 2020, pai, maker neo-rural e instrutor de projetos e paradigmas em plataformas digitais de educação. Recentemente, auto-proclamado [artista amador](https://danolivaz.hotglue.me/). Desde 2022, um [Symborg](https://danolivaz.hotglue.me/?symborg). Desde 14 de Fevereiro de 2023, aluno de Licenciatura em Física do IFPR.
 
 Tenho como horizonte atual um caminho de auto-desenvolvimento ancorado na conexão com a Natureza - de si próprio e externa. Com isso, almejo aprender a ouvir àquilo e àqueles (humanos ou não) que são normalmente destituídos de voz e valor no complexo da atualidade. Na esperança de ser capaz de intervir de modo transformativo na realidade através da polinização de essências.
 
 ---
 <h1>Aqui está um mapa interativo que criei para ilustrar um pouco da minha trajetória:</h1>
 
-<iframe src="https://embed.kumu.io/440b838c535fe37d2316145d597f551c" width="940" height="600" frameborder="0"></iframe> 
+<iframe src="https://embed.kumu.io/d16fa701cc3f07c3d6e0f1ed75915791" width="940" height="600" frameborder="0"></iframe>
 
 <h1>Abaixo segue uma lista de atividades, falas e pesquisas que tenho orgulho de destacar - algumas em inglês</h1>
 
 <h2>Pesquisa sobre o Crescimento de Sentidos Simbióticos para os Humanos (2022-2023)</h2>
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/TGapxLsufwM"" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/TGapxLsufwM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<h2>Ficção Interativa escolhida para compor a mostra digital ["Habitar as Ruínas - invenções e fabulações dos mundos por vir](https://habitarasruinas.org/) (2021)"</h2>
+<h2>Ficção Interativa escolhida para compor a mostra digital "Habitar as Ruínas - invenções e fabulações dos mundos por vir(2021)"</h2>
 
 <center><iframe src="https://itch.io/embed/1283531" width="552" height="167" frameborder="0"><a href="https://danolivaz.itch.io/coleta-cogumelica">Coleta Cogumélica by danolivaz</a></iframe></center>
 
