@@ -3,28 +3,28 @@ title: About
 layout: page
 ---
 
-<h1>Welcome to my mini-bio 👋😊</h1>
-<h1>🇧🇷Bem vinde a minha mini-bio</h1>
+<h1>Que legal que você quer saber mais sobre mim</h1>
 <!---
 <h3>Here you will find an ongoing compilation of my writings, drawings, maps, ideas, rants, as well as some info about my "professional and educational" backgrounds.</h3>
 <h3>🇧🇷Aqui você vai encontrar uma crescente compilação dos meus escritos, desenhos, mapas, ideias, reclamações e também algumas informações sobre meu histórico profissinal e educacional.</h3>
 -->
 
-Me chamo Danilo OliVaz, tenho 28 anos e sou: Conector de pessoas, ideias e fluxos criativos. Periférico.
-Tive minha vida transformada através de oportunidades educacionais extra-ordinárias, na forma de bolsas de estudo para
+Me chamo Danilo OliVaz, tenho 28 anos e sou: Conector de pessoas, ideias e fluxos criativos.
 
-- o ensino médio em [uma jóia de ensino de São Paulo](http://www.sidarta.org.br/colegio/pt/)
-- para graduação em Engenharia Mecânica na UNESP
-- e para programa de graduação em uma [universidade internacional itinerante](https://www.minerva.edu/)
+Nasci na periferia da grande São Paulo e tive minha vida transformada através de oportunidades educacionais extra-ordinárias, na forma de bolsas de estudo para
 
-Acabei não concluindo essas graduações e desde 2015, sou nômade digital. Desde 2017, freelancer e pesquisador independente/explorador dos fenômenos característicos da Ciência da Complexidade - inicializador do [Portal Emergir](https://www.emergir.co/). Desde 2020, pai, maker neo-rural e instrutor de projetos e paradigmas em plataformas digitais de educação. Recentemente, auto-proclamado [artista amador](https://danolivaz.hotglue.me/). Desde 2022, um [Symborg](https://danolivaz.hotglue.me/?symborg). Desde 14 de Fevereiro de 2023, aluno de Licenciatura em Física do IFPR.
+- cursar o ensino médio em [uma jóia de ensino de São Paulo](http://www.sidarta.org.br/colegio/pt/)
+- para iniciar uma graduação em Engenharia Mecânica na UNESP
+- e para viajar o mundo em um programa de graduação de uma [universidade internacional itinerante](https://www.minerva.edu/)
+
+Acabei não concluindo essas graduações e desde 2015, sou nômade digital. Desde 2017, animador de redes, freelancer e pesquisador independente/explorador dos fenômenos característicos da Ciência da Complexidade - inicializador do [Portal Emergir](https://www.emergir.co/). Desde 2020, pai, maker neo-rural e instrutor de projetos e paradigmas em plataformas digitais de educação. Recentemente, auto-proclamado [artista amador](https://danolivaz.hotglue.me/). Desde 2022, um [Symborg](https://danolivaz.hotglue.me/?symborg). Desde 14 de Fevereiro de 2023, aluno de Licenciatura em Física do IFPR.
 
 Tenho como horizonte atual um caminho de auto-desenvolvimento ancorado na conexão com a Natureza - de si próprio e externa. Com isso, almejo aprender a ouvir àquilo e àqueles (humanos ou não) que são normalmente destituídos de voz e valor no complexo da atualidade. Na esperança de ser capaz de intervir de modo transformativo na realidade através da polinização de essências.
 
 ---
 <h1>Aqui está um mapa interativo que criei para ilustrar um pouco da minha trajetória:</h1>
 
-<iframe src="https://embed.kumu.io/d16fa701cc3f07c3d6e0f1ed75915791" width="940" height="600" frameborder="0"></iframe>
+<iframe src="https://embed.kumu.io/5d7879b356479ed7597dd8c5cd27f3c0" width="940" height="940" frameborder="0"></iframe> 
 
 <h1>Abaixo segue uma lista de atividades, falas e pesquisas que tenho orgulho de destacar - algumas em inglês</h1>
 
