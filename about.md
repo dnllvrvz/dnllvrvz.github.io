@@ -41,7 +41,7 @@ Tenho como horizonte atual um caminho de auto-desenvolvimento ancorado na conex√
 <iframe src="https://embed.kumu.io/7c5e63c228b393ec2980217e7465ff1e" width="940" height="600" frameborder="0"></iframe>
 --->
 
-<h1>Below you'll find a list of activities, talks and research that I've participated in/h1>
+<h1>Below you'll find a list of activities, talks and research that I've participated in</h1>
 
 <h2>Growing of Symbiotic New Senses for Humans (2022-2023)</h2>
 
