@@ -3,12 +3,25 @@ title: About
 layout: page
 ---
 
-<h1>Que legal que você quer saber mais sobre mim</h1>
+<h1>Hello. I'm glad you want to know more about me</h1>
 <!---
 <h3>Here you will find an ongoing compilation of my writings, drawings, maps, ideas, rants, as well as some info about my "professional and educational" backgrounds.</h3>
 <h3>🇧🇷Aqui você vai encontrar uma crescente compilação dos meus escritos, desenhos, mapas, ideias, reclamações e também algumas informações sobre meu histórico profissinal e educacional.</h3>
 -->
 
+My name is Danilo Olivaz, I'm 28 years old, and I am a connector of people, ideas, and creative flows.
+
+I was born in the outskirts of São Paulo, and my life was transformed through extraordinary educational opportunities, including scholarships to:
+
+- Attend high school at a [gem of education in São Paulo](http://www.sidarta.org.br/colegio/pt/).
+- Start a Mechanical Engineering degree at UNESP.
+- Travel the world as part of an [itinerant international university program](https://www.minerva.edu/).
+
+I ended up not completing these degrees and since 2015 I have been a digital nomad. Since 2017, I have been a netweaver, freelancer, and independent researcher/explorer of the Complexity Science - initializing the [Emergir Portal](https://www.emergir.co/). Since 2020, I have been a father, a neo-rural maker, and an instructor of projects and paradigms in digital education platforms. Recently, I have embraced the role of an amateur artist, self-identifying as a [Symborg](https://danolivaz.hotglue.me/?symborg). And as of February 14, 2023, I am a Physics undergraduate student at IFPR.
+
+My current horizon is a path of self-development anchored in the connection with nature - both within and without. Through this journey, I aspire to learn to listen to those entities (human or non-human) that are often deprived of voice and value in today's complex reality. It is my hope to intervene in a transformative way by cross-pollinating essences.
+
+<!---
 Me chamo Danilo OliVaz, tenho 28 anos e sou: Conector de pessoas, ideias e fluxos criativos.
 
 Nasci na periferia da grande São Paulo e tive minha vida transformada através de oportunidades educacionais extra-ordinárias, na forma de bolsas de estudo para
@@ -22,13 +35,15 @@ Acabei não concluindo essas graduações e desde 2015, sou nômade digital. Des
 Tenho como horizonte atual um caminho de auto-desenvolvimento ancorado na conexão com a Natureza - de si próprio e externa. Com isso, almejo aprender a ouvir àquilo e àqueles (humanos ou não) que são normalmente destituídos de voz e valor no complexo da atualidade. Na esperança de ser capaz de intervir de modo transformativo na realidade através da polinização de essências.
 
 ---
+<!---
 <h1>Aqui está um mapa interativo que criei para ilustrar um pouco da minha trajetória:</h1>
 
-<iframe src="https://embed.kumu.io/7c5e63c228b393ec2980217e7465ff1e" width="940" height="600" frameborder="0"></iframe> 
+<iframe src="https://embed.kumu.io/7c5e63c228b393ec2980217e7465ff1e" width="940" height="600" frameborder="0"></iframe>
+--->
 
-<h1>Abaixo segue uma lista de atividades, falas e pesquisas que tenho orgulho de destacar - algumas em inglês</h1>
+<h1>Below you'll find a list of activities, talks and research that I've participated in/h1>
 
-<h2>Pesquisa sobre o Crescimento de Sentidos Simbióticos para os Humanos (2022-2023)</h2>
+<h2>Growing of Symbiotic New Senses for Humans (2022-2023)</h2>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/TGapxLsufwM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
