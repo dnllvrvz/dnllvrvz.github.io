@@ -47,9 +47,9 @@ Tenho como horizonte atual um caminho de auto-desenvolvimento ancorado na conex�
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/TGapxLsufwM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<h2>Ficção Interativa escolhida para compor a mostra digital "Habitar as Ruínas - invenções e fabulações dos mundos por vir(2021)"</h2>
+<h2>Interactive Fiction selected to be part of the digital exhibition "Habitar as Ruínas - invenções e fabulações dos mundos por vir (2021)"</h2>
 
-<center><iframe src="https://itch.io/embed/1283531" width="552" height="167" frameborder="0"><a href="https://danolivaz.itch.io/coleta-cogumelica">Coleta Cogumélica by danolivaz</a></iframe></center>
+<center><iframe src="https://itch.io/embed/1213161" width="552" height="167" frameborder="0"><a href="https://danolivaz.itch.io/mushy-foray">Mushy Foray by danolivaz</a></iframe></center>
 
 <h2>A couple of thoughts on Networks and Complexity, in 6 minutes (2020)</h2>
 
