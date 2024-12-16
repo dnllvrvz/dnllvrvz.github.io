@@ -9,7 +9,7 @@ layout: page
 <h3>🇧🇷Aqui você vai encontrar uma crescente compilação dos meus escritos, desenhos, mapas, ideias, reclamações e também algumas informações sobre meu histórico profissinal e educacional.</h3>
 -->
 
-My name is Danilo Olivaz, I'm 28 years old, and I am a connector of people, ideas, and creative flows.
+My name is Danilo Olivaz, I'm 30 years old, and I am a connector of people, ideas, and creative flows.
 
 I was born in the outskirts of São Paulo, and my life was transformed through extraordinary educational opportunities, including scholarships to:
 
@@ -17,9 +17,9 @@ I was born in the outskirts of São Paulo, and my life was transformed through e
 - Start a Mechanical Engineering degree at UNESP.
 - Travel the world as part of an [itinerant international university program](https://www.minerva.edu/).
 
-I ended up not completing these degrees and since 2015 I have been a digital nomad. Since 2017, I have been a netweaver, freelancer, and independent researcher/explorer of the Complexity Science - initializing the [Emergir Portal](https://www.emergir.co/). Since 2020, I have been a father, a neo-rural maker, and an instructor of projects and paradigms in digital education platforms. Recently, I have embraced the role of an amateur artist, self-identifying as a [Symborg](https://danolivaz.hotglue.me/?symborg). And as of February 14, 2023, I am a Physics undergraduate student at IFPR.
+I ended up not completing the undergraduate programs I started (due to continued curiosity beyond the universities membranes) and since 2017 I have been a netweaver, freelancer, and independent researcher. Since 2020, a father, a neo-rural, and a maker instructor. Since 2022, a capoeira and investigator of interspecies communication. Recently, self-declared amateur artist.
 
-My current horizon is a path of self-development anchored in the connection with nature - both within and without. Through this journey, I aspire to learn to listen to those entities (human or non-human) that are often deprived of voice and value in today's complex reality. It is my hope to intervene in a transformative way by cross-pollinating essences.
+My current horizon is a path of self-development anchored in the connection with nature - both within and without. Through this journey, I aspire to learn to listen to those entities (human or non-human) that are often deprived of voice and value in today's complex reality. It is my hope to transform that which needs to be polished within myself and in this way act positively outwards via cross-pollination of essences.
 
 <!---
 Me chamo Danilo OliVaz, tenho 28 anos e sou: Conector de pessoas, ideias e fluxos criativos.
@@ -47,34 +47,43 @@ Tenho como horizonte atual um caminho de auto-desenvolvimento ancorado na conex�
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/TGapxLsufwM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
+---
+
 <h2>Interactive Fiction selected to be part of the digital exhibition "Habitar as Ruínas - invenções e fabulações dos mundos por vir (2021)"</h2>
 
 <center><iframe src="https://itch.io/embed/1213161" width="552" height="167" frameborder="0"><a href="https://danolivaz.itch.io/mushy-foray">Mushy Foray by danolivaz</a></iframe></center>
+
+---
 
 <h2>A couple of thoughts on Networks and Complexity, in 6 minutes (2020)</h2>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/O4i3syu1srs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
+---
 
 <h2>A Co-research I've weaved, in 56 minutes (2019)</h2>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/P7Ye0pDIVHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<h2>A bit about me, in 1 min (2019)</h2>
+---
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/VQPnoJa9XnY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-<h2>Some things I have helped build, in 6 minutes (2019)</h2>
+<h2>Ecosanitation and paradigm shifts, in 6 minutes (2019)</h2>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/QUlNac_iq7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <p>full interview <a href="http://www.whatisemerging.com/profiles/we-are-talking-about-something-so-new-that-it-s-almost-alien">here</a>.</p>
 
-<h2>Some of my thinking, in 14 minutes (2018)</h2>
+---
+
+<h2>Some of my thinking on complexity, in 14 minutes (2018)</h2>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/H6E3wDJ33lU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+---
 
 <h2>A bit of my motivations and backstory, in 18 minutes (2018)</h2>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/mgK8QFYdbNk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+---
 
 <h2>🇧🇷Alguns pensamentos a respeito de sistemas e complexidade, em 22 minutos (2018)</h2>
 

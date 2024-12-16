@@ -34,7 +34,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: danilo.vaz.397
+# facebook: danilo.vaz.397
 twitter: emergir_co
 # google: mygoogle
 # instagram: myinstagram
@@ -51,7 +51,7 @@ github: dnllvrvz
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: dnllvrvz@gmail.com
+email: danolivaz@tutanota.com
 
 authors:
     danilo:
