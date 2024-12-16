@@ -4,6 +4,7 @@ layout: post
 date: 2023-06-03
 tag:
 - 🏇interspecies
+- 🤖AI
 projects: true
 hidden: true # don't count this post in blog pagination
 description:
