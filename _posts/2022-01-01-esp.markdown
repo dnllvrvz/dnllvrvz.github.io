@@ -1,14 +1,14 @@
 ---
-title: "Selo Plástico-Zero"
+title: "Earth Species Project Community Weaver"
 layout: post
-date: 2020-07-14
+date: 2022-01-01
 tag:
-- 🇧🇷português
+- 🏇interspecies
 - 🕸netweaving
 projects: true
 hidden: true # don't count this post in blog pagination
 description:
 category: project
 author: danilo
-externalLink: "https://telegra.ph/Selo-Pl%C3%A1stico-Zero-07-14"
+externalLink: "https://discord.com/invite/H2Y532a2Wm"
 ---

@@ -1,10 +1,11 @@
 ---
-title: "BioData Exploration"
+title: "BioData Sonification"
 layout: post
 date: 2021-06-01
 tag:
-- 🛠️maker
+- 🌱plant
 - 🍄fungi
+- 🏇interspecies
 projects: true
 hidden: true # don't count this post in blog pagination
 category: project

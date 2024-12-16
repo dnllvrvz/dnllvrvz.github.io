@@ -17,7 +17,7 @@ I was born in the outskirts of São Paulo, and my life was transformed through e
 - Start a Mechanical Engineering degree at UNESP.
 - Travel the world as part of an [itinerant international university program](https://www.minerva.edu/).
 
-I ended up not completing the undergraduate programs I started (due to continued curiosity beyond the universities membranes) and since 2017 I have been a netweaver, freelancer, and independent researcher. Since 2020, a father, a neo-rural, and a maker instructor. Since 2022, a capoeira and investigator of interspecies communication. Recently, self-declared amateur artist.
+I ended up not completing the undergraduate programs I started (due to continued curiosity beyond the universities membranes) and since 2017 I have been a netweaver, freelancer, and independent researcher. Since 2020, a father, a neo-rural, and a maker instructor. Since 2022, a capoeira and investigator of interspecies communication. Recently, self-declared [amateur artist](https://danolivaz.hotglue.me/).
 
 My current horizon is a path of self-development anchored in the connection with nature - both within and without. Through this journey, I aspire to learn to listen to those entities (human or non-human) that are often deprived of voice and value in today's complex reality. It is my hope to transform that which needs to be polished within myself and in this way act positively outwards via cross-pollination of essences.
 
