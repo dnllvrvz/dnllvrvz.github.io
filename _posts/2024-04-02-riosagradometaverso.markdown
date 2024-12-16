@@ -1,7 +1,7 @@
 ---
 title: "Rio Sagrado AI-vatar | Metaverse Experience"
 layout: post
-date: 2023-06-03
+date: 2024-06-03
 tag:
 - 🎮play
 projects: true

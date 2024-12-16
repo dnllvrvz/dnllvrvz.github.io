@@ -1,7 +1,7 @@
 ---
 title: "Avatar Rio Sagrado"
 layout: post
-date: 2023-06-03
+date: 2024-06-03
 tag:
 - 🏇interspecies
 - 🤖AI
