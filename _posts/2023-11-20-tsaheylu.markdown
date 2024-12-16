@@ -1,0 +1,15 @@
+---
+title: "Sensing canine behavior from an edge ML-driven haptic interface"
+layout: post
+date: 2023-11-20
+tag:
+- 🏇interspecies
+- 🤖AI
+- 🐕dog
+projects: true
+hidden: true # don't count this post in blog pagination
+description:
+category: project
+author: danilo
+externalLink: "https://experiment.com/projects/a-framework-and-case-study-of-ai-avatars-for-non-human-entities"
+---
