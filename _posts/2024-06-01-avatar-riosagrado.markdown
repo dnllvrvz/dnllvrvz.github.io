@@ -1,14 +1,13 @@
 ---
-title: "Growing symbiotic new senses for humans"
+title: "Avatar Rio Sagrado"
 layout: post
 date: 2023-06-03
 tag:
-- 🌱plant
 - 🏇interspecies
 projects: true
 hidden: true # don't count this post in blog pagination
 description:
 category: project
 author: danilo
-externalLink: "https://experiment.com/projects/growing-symbiotic-new-senses-for-humans"
+externalLink: "https://kumu.io/emergir/sympoiesis#untitled-map/avatar-rio-sagrado"
 ---
