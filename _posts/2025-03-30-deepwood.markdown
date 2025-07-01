@@ -1,0 +1,13 @@
+---
+title: "Deepwood"
+layout: post
+date: 2025-03-30
+tag:
+- 🏇interspecies
+projects: true
+hidden: true # don't count this post in blog pagination
+description:
+category: project
+author: danilo
+externalLink: "https://mechanimal.co.uk/project/deepwood/"
+---

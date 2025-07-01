@@ -43,6 +43,12 @@ Tenho como horizonte atual um caminho de auto-desenvolvimento ancorado na conex√
 
 <h1>Below you'll find a list of activities, talks and research that I've participated in</h1>
 
+<h2>Deepwood Tree Listening Experience (Jan-Mar, 2025)</h2>
+
+I was invited by [Mechanimal to develop the tree sensing devices for the deepwood listening experience](https://mechanimal.co.uk/project/deepwood/):
+
+<center><iframe width="560" height="315" "https://www.youtube.com/embed/vhQsM8PUi6Y?si=TuCGl3c0E9-1qdvv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 <h2>Growing of Symbiotic New Senses for Humans (2022-2023)</h2>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/TGapxLsufwM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
